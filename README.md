@@ -35,6 +35,11 @@ https://aalind0.github.io/time-machine-fund/.
 - `scripts/simulate.mjs` is the quick version: surface tells and difficulty by skill level.
 - `research/SPEC.md` is the format for outcome research.
 
+## Visit counts
+
+Anonymous, cookie-free counts with GoatCounter (`site/js/stats.js`, site code in `site/js/config.js`): page views,
+funds started (by mandate), funds finished (by result tier) and share clicks. Nothing about the player is sent.
+
 ## How the math works
 
 See the "How the math works" panel on the results screen (generated from `site/data/fund.json`).
