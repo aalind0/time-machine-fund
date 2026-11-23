@@ -1,0 +1,312 @@
+{
+ "model": {
+  "seedPre": [
+   {
+    "y": 2010,
+    "v": 3200000
+   },
+   {
+    "y": 2013,
+    "v": 5200000
+   },
+   {
+    "y": 2019,
+    "v": 8000000
+   },
+   {
+    "y": 2021,
+    "v": 9000000
+   },
+   {
+    "y": 2022,
+    "v": 10500000
+   }
+  ],
+  "seedDilution": 0.2,
+  "laterRounds": [
+   0.2,
+   0.16,
+   0.12,
+   0.1,
+   0.1,
+   0.1
+  ],
+  "maxOwnership": 0.1,
+  "heavyKeep": 0.5,
+  "undisclosedAcq": 1,
+  "acquihire": 0.25
+ },
+ "benchmarks": {
+  "label": "Carta funds, vintage 2017 (as of Q4 2025)",
+  "source": "https://carta.com/data/vc-fund-performance-q4-2025-full-report/",
+  "quartiles": {
+   "median": 1.89,
+   "top_quartile": 2.53,
+   "top_decile": 4.08
+  },
+  "funds": [
+   {
+    "firm": "Khosla Ventures",
+    "fund": "Khosla Ventures Seed",
+    "vintage": 2009,
+    "net_tvpi": 1.18,
+    "as_of": "2025-06-30",
+    "lp": "UC Regents",
+    "source": "https://www.ucop.edu/investment-office/_files/updates/pe_irr_06-30-21.pdf"
+   },
+   {
+    "firm": "Khosla Ventures",
+    "fund": "Khosla Ventures IV",
+    "vintage": 2011,
+    "net_tvpi": 4.07,
+    "as_of": "2025-06-30",
+    "lp": "UC Regents",
+    "source": "https://www.ucop.edu/investment-office/_files/updates/pe_irr_06-30-21.pdf"
+   },
+   {
+    "firm": "Khosla Ventures",
+    "fund": "Khosla Ventures Seed B",
+    "vintage": 2012,
+    "net_tvpi": 3.55,
+    "as_of": "2025-06-30",
+    "lp": "UC Regents",
+    "source": "https://www.ucop.edu/investment-office/_files/updates/pe_irr_06-30-21.pdf"
+   },
+   {
+    "firm": "Khosla Ventures",
+    "fund": "Khosla Ventures V",
+    "vintage": 2014,
+    "net_tvpi": 3.37,
+    "as_of": "2025-06-30",
+    "lp": "UC Regents",
+    "source": "https://www.ucop.edu/investment-office/_files/updates/pe_irr_06-30-21.pdf"
+   },
+   {
+    "firm": "Sequoia",
+    "fund": "Sequoia Global Growth Fund III",
+    "vintage": 2018,
+    "net_tvpi": 2,
+    "as_of": "2025-09-30",
+    "lp": "Washington State Investment Board",
+    "source": "https://sib.wa.gov/docs/reports/quarterly/ir093025.pdf"
+   },
+   {
+    "firm": "Sequoia",
+    "fund": "Sequoia Capital US Growth VIII",
+    "vintage": 2018,
+    "net_tvpi": 1.81,
+    "as_of": "2025-06-30",
+    "lp": "UC Regents",
+    "source": "https://www.ucop.edu/investment-office/_files/updates/pe_irr_06-30-21.pdf"
+   },
+   {
+    "firm": "Sequoia",
+    "fund": "Sequoia Capital US Venture XVI",
+    "vintage": 2018,
+    "net_tvpi": 4.55,
+    "as_of": "2025-06-30",
+    "lp": "UC Regents",
+    "source": "https://www.ucop.edu/investment-office/_files/updates/pe_irr_06-30-21.pdf"
+   },
+   {
+    "firm": "Insight",
+    "fund": "Insight Venture Partners V",
+    "vintage": 2005,
+    "net_tvpi": 2.56,
+    "as_of": "2020-06-30",
+    "lp": "UC Regents",
+    "source": "https://ucop.edu/investment-office/_files/updates/pe_irr_06-30-20.pdf"
+   },
+   {
+    "firm": "Lightspeed",
+    "fund": "Lightspeed Venture Partners VII",
+    "vintage": 2006,
+    "net_tvpi": 1.43,
+    "as_of": "2020-06-30",
+    "lp": "UC Regents",
+    "source": "https://ucop.edu/investment-office/_files/updates/pe_irr_06-30-20.pdf"
+   },
+   {
+    "firm": "Insight",
+    "fund": "Insight Venture Partners VI",
+    "vintage": 2007,
+    "net_tvpi": 2.21,
+    "as_of": "2020-06-30",
+    "lp": "UC Regents",
+    "source": "https://ucop.edu/investment-office/_files/updates/pe_irr_06-30-20.pdf"
+   },
+   {
+    "firm": "Lightspeed",
+    "fund": "Lightspeed Venture Partners VIII",
+    "vintage": 2008,
+    "net_tvpi": 1.68,
+    "as_of": "2020-06-30",
+    "lp": "UC Regents",
+    "source": "https://ucop.edu/investment-office/_files/updates/pe_irr_06-30-20.pdf"
+   },
+   {
+    "firm": "Bessemer",
+    "fund": "Bessemer Venture Partners VII",
+    "vintage": 2009,
+    "net_tvpi": 1.69,
+    "as_of": "2020-06-30",
+    "lp": "UC Regents",
+    "source": "https://ucop.edu/investment-office/_files/updates/pe_irr_06-30-20.pdf"
+   },
+   {
+    "firm": "Khosla Ventures",
+    "fund": "Khosla Ventures III",
+    "vintage": 2009,
+    "net_tvpi": 1.97,
+    "as_of": "2020-06-30",
+    "lp": "UC Regents",
+    "source": "https://ucop.edu/investment-office/_files/updates/pe_irr_06-30-20.pdf"
+   },
+   {
+    "firm": "Insight",
+    "fund": "Insight Venture Partners VII",
+    "vintage": 2011,
+    "net_tvpi": 1.52,
+    "as_of": "2020-06-30",
+    "lp": "UC Regents",
+    "source": "https://ucop.edu/investment-office/_files/updates/pe_irr_06-30-20.pdf"
+   },
+   {
+    "firm": "Bessemer",
+    "fund": "Bessemer Venture Partners VIII",
+    "vintage": 2011,
+    "net_tvpi": 1.4,
+    "as_of": "2020-06-30",
+    "lp": "UC Regents",
+    "source": "https://ucop.edu/investment-office/_files/updates/pe_irr_06-30-20.pdf"
+   },
+   {
+    "firm": "Insight",
+    "fund": "Insight Venture Partners VIII",
+    "vintage": 2013,
+    "net_tvpi": 3.2,
+    "as_of": "2025-09-30",
+    "lp": "Washington State Investment Board",
+    "source": "https://sib.wa.gov/docs/reports/quarterly/ir093025.pdf"
+   },
+   {
+    "firm": "NEA",
+    "fund": "New Enterprise Associates 12",
+    "vintage": 2006,
+    "net_tvpi": 1.4,
+    "as_of": "2025-09-30",
+    "lp": "Washington State Investment Board",
+    "source": "https://sib.wa.gov/docs/reports/quarterly/ir093025.pdf"
+   },
+   {
+    "firm": "Insight",
+    "fund": "Insight Venture Partners IX",
+    "vintage": 2015,
+    "net_tvpi": 4,
+    "as_of": "2026-03-31",
+    "lp": "CalPERS",
+    "source": "https://www.calpers.ca.gov/investments/about-investment-office/investment-organization/pep-fund-performance-print"
+   },
+   {
+    "firm": "Menlo Ventures",
+    "fund": "Menlo Ventures X",
+    "vintage": 2006,
+    "net_tvpi": 2.1,
+    "as_of": "2025-09-30",
+    "lp": "Washington State Investment Board",
+    "source": "https://sib.wa.gov/docs/reports/quarterly/ir093025.pdf"
+   },
+   {
+    "firm": "Menlo Ventures",
+    "fund": "Menlo Ventures XI",
+    "vintage": 2011,
+    "net_tvpi": 4.3,
+    "as_of": "2025-09-30",
+    "lp": "Washington State Investment Board",
+    "source": "https://sib.wa.gov/docs/reports/quarterly/ir093025.pdf"
+   },
+   {
+    "firm": "Menlo Ventures",
+    "fund": "Menlo Ventures XII",
+    "vintage": 2015,
+    "net_tvpi": 1.8,
+    "as_of": "2025-09-30",
+    "lp": "Washington State Investment Board",
+    "source": "https://sib.wa.gov/docs/reports/quarterly/ir093025.pdf"
+   },
+   {
+    "firm": "Menlo Ventures",
+    "fund": "Menlo Ventures XIV",
+    "vintage": 2017,
+    "net_tvpi": 2.3,
+    "as_of": "2025-09-30",
+    "lp": "Washington State Investment Board",
+    "source": "https://sib.wa.gov/docs/reports/quarterly/ir093025.pdf"
+   },
+   {
+    "firm": "Union Square Ventures",
+    "fund": "Union Square Ventures 2008",
+    "vintage": 2008,
+    "net_tvpi": 4.35,
+    "as_of": "2026-06-30",
+    "lp": "Oregon State Treasury",
+    "source": "https://www.oregon.gov/treasury/invested-for-oregon/Documents/Invested-for-OR-Performance-and-Holdings/2026/OPERF-Private-Equity-Portfolio-Quarter-2-2026.pdf"
+   },
+   {
+    "firm": "Union Square Ventures",
+    "fund": "Union Square Ventures Opportunity Fund",
+    "vintage": 2010,
+    "net_tvpi": 3.58,
+    "as_of": "2026-06-30",
+    "lp": "Oregon State Treasury",
+    "source": "https://www.oregon.gov/treasury/invested-for-oregon/Documents/Invested-for-OR-Performance-and-Holdings/2026/OPERF-Private-Equity-Portfolio-Quarter-2-2026.pdf"
+   },
+   {
+    "firm": "Union Square Ventures",
+    "fund": "Union Square Ventures 2012",
+    "vintage": 2011,
+    "net_tvpi": 23.87,
+    "as_of": "2026-06-30",
+    "lp": "Oregon State Treasury",
+    "source": "https://www.oregon.gov/treasury/invested-for-oregon/Documents/Invested-for-OR-Performance-and-Holdings/2026/OPERF-Private-Equity-Portfolio-Quarter-2-2026.pdf"
+   },
+   {
+    "firm": "Union Square Ventures",
+    "fund": "Union Square Ventures 2014",
+    "vintage": 2014,
+    "net_tvpi": 4.07,
+    "as_of": "2026-06-30",
+    "lp": "Oregon State Treasury",
+    "source": "https://www.oregon.gov/treasury/invested-for-oregon/Documents/Invested-for-OR-Performance-and-Holdings/2026/OPERF-Private-Equity-Portfolio-Quarter-2-2026.pdf"
+   },
+   {
+    "firm": "Union Square Ventures",
+    "fund": "Union Square Ventures Opportunity 2014",
+    "vintage": 2014,
+    "net_tvpi": 6.08,
+    "as_of": "2026-06-30",
+    "lp": "Oregon State Treasury",
+    "source": "https://www.oregon.gov/treasury/invested-for-oregon/Documents/Invested-for-OR-Performance-and-Holdings/2026/OPERF-Private-Equity-Portfolio-Quarter-2-2026.pdf"
+   },
+   {
+    "firm": "Insight",
+    "fund": "Insight Venture Partners X",
+    "vintage": 2018,
+    "net_tvpi": 2.7,
+    "as_of": "2026-03-31",
+    "lp": "CalPERS",
+    "source": "https://www.calpers.ca.gov/investments/about-investment-office/investment-organization/pep-fund-performance-print"
+   }
+  ]
+ },
+ "notes": [
+  "Each deal is a $1M check at that year's typical seed price: the median US seed pre-money valuation (PitchBook: $3.2M in 2010, $5.2M in 2013, $8.0M in 2019, $9.0M in 2021, $10.5M in 2022; years in between interpolated, later years held at 2022), with about 20% of the company sold in the round (Carta).",
+  "Your stake is capped at 10%, typical for a $1M check from a small seed fund. If a company's first round was far bigger than a normal seed, you buy in at that round instead.",
+  "Later rounds dilute you about 20%, 16%, 12%, then 10% each (Carta medians). Bigger outcomes are assumed to have needed more rounds. Capital-hungry companies (marked \"Heavy\" cash: rockets, fusion, chips, fleets, factories, drug trials) raise far more along the way, so your stake at exit is about half what it would be in a software company of the same size.",
+  "Exits are valued at the IPO valuation or the reported acquisition price. Undisclosed price: money back (1x). Acqui-hire: 0.25x. Shut down: zero.",
+  "Companies still private are marked at their latest reported valuation, which is paper value, not cash. No valuation on record: held at cost.",
+  "The fund is $11M: $1M for each of the 10 deals plus a $1M reserve for one double-down, which buys a second $1M of that company at the same price (real funds keep reserves to back their best bets). An unused reserve, like a missed deal, stays in cash. Net to LPs assumes $13.2M committed ($11M plus 2% a year in fees) and 20% carry on profits.",
+  "The deals: each fund sees one or two companies that turned out well (paid back at least 3x on your check; most are solid wins, a few are giants), hidden among failures (some of them very well funded) and survivors. The two cards in a deal always look alike on the surface (same era, similar pitch length, same kind of terms), so only judgement separates them. With no thought, about half of funds lose money; careful players usually beat the typical fund.",
+  "Benchmarks: Carta fund data (2017 vintage). Real funds: net multiples that public pension LPs (UC Regents, Washington State Investment Board, Oregon State Treasury, CalPERS) report for funds they hold."
+ ]
+}

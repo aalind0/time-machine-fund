@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Time Machine Fund</title>
+  <meta name="description" content="You get $10M and a time machine. Back 10 real startups before anyone knew how they'd turn out, then fast-forward to see what your fund is worth." />
+  <meta name="theme-color" content="#07080b" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Time Machine Fund" />
+  <meta property="og:description" content="You get $10M and a time machine. Back 10 real startups, then fast-forward." />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="bg" aria-hidden="true"><div class="bg-grid"></div><div class="bg-glow"></div></div>
+
+  <header class="top">
+    <a class="brand" href="./" aria-label="Time Machine Fund, home">
+      <svg class="dial" viewBox="0 0 32 32" aria-hidden="true">
+        <circle cx="16" cy="16" r="13" fill="none" stroke="currentColor" stroke-width="2" />
+        <path d="M16 8v8l5.5 3.5" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" />
+        <path d="M4.5 9.5 2 6.5M4.2 9.6 8 9" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+      </svg>
+      <span>Time Machine Fund</span>
+    </a>
+    <span class="beta">Beta</span>
+  </header>
+
+  <main id="main">
+    <!-- HOME -->
+    <section id="home" class="screen">
+      <div class="home-grid">
+        <div class="home-copy">
+          <p class="eyebrow"><span class="pulse"></span>Real startups · real outcomes</p>
+          <h1>You have $10M<br />and a time machine.</h1>
+          <p class="lede">Go back. Back 10 startups while nobody knows how they'll turn out: two at a time, names hidden, seconds to decide. Then fast-forward to today and see what your fund is worth.</p>
+        </div>
+        <ul class="rules">
+          <li><b>10 deals</b><span>$1M each. Pick one of two.</span></li>
+          <li><b id="ruleSecs">40 seconds</b><span>per deal. Miss it and the money sits in cash.</span></li>
+          <li><b>1 double down</b><span>Your $1M reserve, into the one you believe in most.</span></li>
+          <li><b>2012–2026</b><span>What they pitched back then, not what they became. Up to the latest YC batches.</span></li>
+        </ul>
+
+        <form id="setup" class="panel setup" autocomplete="off">
+          <label class="field">
+            <span class="label">Name your fund <span class="opt">optional</span></span>
+            <input id="fundName" maxlength="26" placeholder="Hindsight Capital" spellcheck="false" aria-describedby="fundNameHint" />
+            <span class="hint" id="fundNameHint">Leave it blank and we’ll name it for you.</span>
+          </label>
+          <fieldset class="mandates">
+            <legend class="label">Your mandate</legend>
+            <label class="mandate"><input type="radio" name="mandate" value="all" checked /><span><b>Generalist</b><small>Anything with a shot</small></span></label>
+            <label class="mandate"><input type="radio" name="mandate" value="frontier" /><span><b>Frontier tech</b><small>AI labs, robots, space, chips, bio</small></span></label>
+            <label class="mandate"><input type="radio" name="mandate" value="yc" /><span><b>YC Demo Day</b><small>Only Y Combinator companies</small></span></label>
+          </fieldset>
+          <label class="switch">
+            <input type="checkbox" id="relaxed" />
+            <span class="track" aria-hidden="true"><i></i></span>
+            <span>Relaxed mode <small>no timer</small></span>
+          </label>
+          <button class="btn btn-go" type="submit" id="btnStart">Start the fund <span class="kbd">↵</span></button>
+          <p class="fine" id="homeStats">Loading the deal flow…</p>
+        </form>
+      </div>
+    </section>
+
+    <!-- PLAY -->
+    <section id="play" class="screen" hidden>
+      <div class="hud">
+        <div class="hud-row">
+          <span class="hud-fund" id="hudFund">Hindsight Capital</span>
+          <span class="hud-deal">Deal <b id="hudN">1</b><span class="of">/10</span></span>
+          <span class="hud-cash">Dry powder <b id="hudCash">$10M</b></span>
+          <span class="hud-res" id="hudRes" title="One double-down per game">Reserve <b>$1M</b></span>
+        </div>
+        <div class="timer" id="timer" role="progressbar" aria-label="Time left" aria-valuemin="0" aria-valuemax="40"><i></i></div>
+      </div>
+
+      <div class="ask">
+        <p class="ask-q" id="askQ">Which one gets your $1M?</p>
+        <p class="ask-t" id="askT" aria-live="polite"></p>
+      </div>
+
+      <p class="era" id="era"></p>
+      <p class="deal-price" id="dealPrice" hidden></p>
+      <div class="pair" id="pair"></div>
+
+      <!-- below the cards: everything above them is about the choice itself -->
+      <label class="dd" id="dd">
+        <input type="checkbox" id="ddBox" />
+        <span class="dd-switch" aria-hidden="true"><i></i></span>
+        <span class="dd-txt"><b>Double down</b>: switch this on, then pick. Your $1M reserve goes in too, so that pick gets a $2M check. Once per game. <span class="kbd">D</span></span>
+      </label>
+
+      <div class="play-foot">
+        <ol class="tape" id="tape" aria-label="Your deals so far"></ol>
+        <p class="keys"><span class="kbd">A</span> <span class="kbd">B</span> or tap a card</p>
+      </div>
+    </section>
+
+    <!-- THE TIME MACHINE: the trip back before deal 1, the trip home before the reveal (js/trip.js) -->
+    <section id="trip" class="screen" hidden>
+      <div class="warp-wrap" id="tripWarp" aria-hidden="true"><div class="warp"></div></div>
+      <div class="trip-head">
+        <p class="eyebrow" id="tripEyebrow">Departure</p>
+        <h2 class="trip-cap" id="tripCap" aria-live="polite"></h2>
+      </div>
+      <div class="trip-stage" id="tripStage" title="Tap to skip">
+        <div class="trip-flash" id="tripFlash" aria-hidden="true"></div>
+      </div>
+      <div class="trip-bar">
+        <div class="flaps" id="tripYear" role="img" aria-label="2026"></div>
+        <button class="btn btn-ghost btn-small" id="tripSkip" type="button">Skip <span class="kbd">↵</span></button>
+      </div>
+    </section>
+
+    <!-- REVEAL: your ten picks flip one by one -->
+    <section id="reveal" class="screen" hidden>
+      <div class="rv-head">
+        <p class="eyebrow" id="rvEyebrow">2026 · opening the books</p>
+        <div class="rv-total" aria-live="polite">
+          <span class="rv-label">Your fund is worth</span>
+          <b id="rvTotal">$0</b>
+          <span class="rv-mult" id="rvMult">0x</span>
+        </div>
+      </div>
+      <div class="rv-grid" id="rvGrid"></div>
+      <div class="rv-foot">
+        <div class="rv-verdict" id="rvVerdict" hidden></div>
+        <div class="rv-actions">
+          <button class="btn btn-go" id="rvNext" type="button" hidden>See the full results <span class="kbd">↵</span></button>
+          <button class="btn btn-ghost btn-small" id="rvSkip" type="button">Skip</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- RESULTS -->
+    <section id="results" class="screen" hidden></section>
+  </main>
+
+  <footer class="foot">
+    <p>A game built on real, sourced company data. The fund math is simplified, and this is not investment advice.
+      <a href="#how" id="footHow">How the math works</a></p>
+  </footer>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
