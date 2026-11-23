@@ -1,6 +1,7 @@
 // Game settings. SITE is shown on the share card.
 export const CONFIG = {
   site: 'aalind0.github.io/time-machine-fund',
+  goatcounter: 'lavlanche', // GoatCounter site code (<code>.goatcounter.com): anonymous, cookie-free visit counts. Empty = off.
   fundSize: 10_000_000,
   check: 1_000_000,
   reserve: 1_000_000, // held back for one double-down: put it into the company you believe in most

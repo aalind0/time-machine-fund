@@ -4,6 +4,7 @@ import { buildDeck, loadSeen, saveSeen } from './deck.js';
 import { drawCard, shareText } from './share.js';
 import { runTrip, skipTrip } from './trip.js';
 import { eraLine } from './eras.js';
+import { initStats, track } from './stats.js';
 
 const $ = (s, el = document) => el.querySelector(s);
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -35,6 +36,7 @@ const G = {
 /* ---------- boot ---------- */
 init();
 async function init() {
+  initStats();
   const ph = NAMES[Math.floor(Math.random() * NAMES.length)];
   $('#fundName').placeholder = ph;
   $('#ruleSecs').textContent = `${CONFIG.timerMs / 1000} seconds`;
@@ -71,6 +73,7 @@ async function start() {
   G.fund = ($('#fundName').value.trim() || $('#fundName').placeholder).slice(0, 26);
   G.mandate = (document.querySelector('input[name="mandate"]:checked') || {}).value || 'all';
   G.relaxed = $('#relaxed').checked;
+  track(`start/${G.mandate}`, `Fund started: ${{ all: 'Generalist', frontier: 'Frontier tech', yc: 'YC Demo Day' }[G.mandate] || G.mandate}${G.trips ? ' (replay)' : ''}`);
   G.deals = buildDeck(G.companies, G.mandate, G.seen);
   G.rounds = []; G.i = 0; G.reserveUsed = false;
   $('#hudFund').textContent = G.fund;
@@ -374,6 +377,7 @@ function peerLine(peer, x) {
 
 async function renderResults(S) {
   const V = verdict(S, G.bench);
+  track(`finish/${V.tier.toLowerCase().replace(/[^a-z]+/g, '-')}`, `Fund finished: ${V.tier}`);
   const peer = closestFund(S.netTvpi, G.bench.funds);
   const picks = S.picks.slice().sort((a, b) => b.s.value - a.s.value);
   const max = Math.max(...picks.map((p) => p.s.multiple), ...S.passes.map((p) => p.s.multiple), 1);
@@ -486,9 +490,11 @@ async function renderResults(S) {
   const text = shareText(G.fund, S, V);
   const file = await new Promise((r) => cv.toBlob((b) => r(b ? new File([b], 'time-machine-fund.png', { type: 'image/png' }) : null), 'image/png'));
   $('#btnDownload').addEventListener('click', () => {
+    track('share/download', 'Share: card image downloaded');
     const a = document.createElement('a'); a.href = url; a.download = 'time-machine-fund.png'; a.click();
   });
   $('#btnLinkedIn').addEventListener('click', async () => {
+    track('share/linkedin', 'Share: LinkedIn');
     await copy(text);
     toast('Result copied. Paste it into your post.');
     window.open(`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(`https://${CONFIG.site}/`)}`, '_blank', 'noopener');
@@ -499,8 +505,12 @@ async function renderResults(S) {
   $('#shSMS').href = `sms:?&body=${encodeURIComponent(text)}`;
   $('#shX').href = `https://x.com/intent/tweet?text=${encodeURIComponent(bare)}&url=${encodeURIComponent(link)}`;
   $('#shMail').href = `mailto:?subject=${encodeURIComponent(`Can you beat my Time Machine Fund?`)}&body=${encodeURIComponent(text)}`;
-  $('#shCopy').addEventListener('click', async () => { await copy(text); toast('Copied. Paste it anywhere.'); });
+  for (const [id, ch] of [['shWhatsApp', 'WhatsApp'], ['shSMS', 'Messages'], ['shX', 'X'], ['shMail', 'Email']]) {
+    $('#' + id).addEventListener('click', () => track(`share/${ch.toLowerCase()}`, `Share: ${ch}`));
+  }
+  $('#shCopy').addEventListener('click', async () => { track('share/copy', 'Share: copy link'); await copy(text); toast('Copied. Paste it anywhere.'); });
   $('#btnShare').addEventListener('click', async () => {
+    track('share/button', 'Share: Share your fund button');
     try {
       if (file && navigator.canShare && navigator.canShare({ files: [file] })) { await navigator.share({ files: [file], text }); return; }
       if (navigator.share) { await navigator.share({ text, url: `https://${CONFIG.site}/` }); return; }
