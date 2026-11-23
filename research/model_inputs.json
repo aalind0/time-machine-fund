@@ -1,0 +1,34 @@
+{
+"seed_valuation_by_year":[
+{"year":2010,"median_pre_money_usd":3200000,"kind":"pre","source":"PitchBook figure as relayed by search summary; primary URL not confirmed","verified":false},
+{"year":2013,"median_pre_money_usd":5200000,"kind":"pre","period":"first three quarters only","source":"PitchBook figure as relayed by search summary; primary URL not confirmed","verified":false},
+{"year":2019,"median_pre_money_usd":8000000,"kind":"pre","source":"https://files.pitchbook.com/website/files/pdf/PitchBook_2019_Annual_US_VC_Valuations_Report.pdf","verified":"snippet only (report text not fetched)"},
+{"year":2021,"median_pre_money_usd":9000000,"kind":"pre","source":"https://files.pitchbook.com/website/files/pdf/2021_Annual_US_VC_Valuations_Report.pdf","verified":"snippet only; $9.0M also cited as 2021 full-year baseline in PitchBook/TechCrunch coverage"},
+{"year":2022,"median_pre_money_usd":10500000,"kind":"pre","source":"https://files.pitchbook.com/website/files/pdf/2022_Annual_US_VC_Valuations_Report.pdf","verified":"snippet only; TechCrunch cites 11.1M for 2022 in a later article, so sources conflict"}
+],
+"dilution_per_round":[
+{"round":"seed","median_pct":20.1,"as_of":"Q1 2024 (Carta)","source":"https://carta.com/data/dilution-q1-2024/"},
+{"round":"A","median_pct":20.5,"as_of":"Q1 2024 (Carta)","source":"https://carta.com/data/dilution-q1-2024/"},
+{"round":"B","median_pct":16.7,"as_of":"Q1 2024 (Carta)","source":"https://carta.com/data/dilution-q1-2024/"},
+{"round":"seed","median_pct":23.0,"as_of":"Q1 2019 (Carta)","source":"https://carta.com/data/dilution-q1-2024/"},
+{"round":"A","median_pct":24.1,"as_of":"Q1 2019 (Carta)","source":"https://carta.com/data/dilution-q1-2024/"},
+{"round":"B","median_pct":20.8,"as_of":"Q1 2019 (Carta)","source":"https://carta.com/data/dilution-q1-2024/"},
+{"round":"C","median_pct":12.6,"as_of":"2024 (Carta; set: seed 20.4, A 20.0, B 15.2, C 12.6)","source":"https://carta.com/data/linkedin-dilution-by-venture-round-medians/","verified":"snippet only, URL attribution not confirmed"},
+{"round":"C","median_pct":10,"as_of":"2024 (Carta primary rounds; set: seed 19.5, A 18, B 15, C 10)","source":"https://carta.com/data/linkedin-dilution-by-round-2024-10000-rounds/","verified":"snippet only, URL attribution not confirmed"}
+],
+"yc_base_rates":[
+{"stat":"YC companies backed (excl. Quora etc.)","value":940,"as_of":"Aug 2015, Sam Altman","source":"https://techcrunch.com/2015/08/26/yc-answers-the-questions-you-ask-a-lot"},
+{"stat":"share shut down (~300 of ~940, 'nearly a third')","value":0.32,"as_of":"Aug 2015, Sam Altman (derived 300/940)","source":"https://techcrunch.com/2015/08/26/yc-answers-the-questions-you-ask-a-lot"},
+{"stat":"YC companies valued over $1B","value":8,"as_of":"2015","source":"https://venturebeat.com/business/y-combinator-startups-have-raised-7b-with-a-65b-total-valuation-8-are-1b-unicorns"},
+{"stat":"share of YC companies that became unicorns (4.5% vs 2.5% for comparable VC-backed seed startups)","value":0.045,"as_of":"Lenny's Newsletter analysis of 4,939 YC companies, date not confirmed","source":"https://www.lennysnewsletter.com/p/pulling-back-the-curtain-on-the-magic"},
+{"stat":"share out of business (Lenny analysis)","value":0.13,"as_of":"same analysis, date not confirmed","source":"https://www.lennysnewsletter.com/p/pulling-back-the-curtain-on-the-magic"},
+{"stat":"share shut down, 953 of 5,422 funded since 2005 (also 12.7% acquired, 0.4% public)","value":0.176,"as_of":"June 2026, third-party (LeadGenius)","source":"https://www.leadgenius.com/resources/winners-and-losers-a-two-decade-history-of-y-combinator"},
+{"stat":"share unicorns, 118 of 6,633 (inactive only 5.4%; counts quietly dead as active)","value":0.0178,"as_of":"2026, third-party (Zeni)","source":"https://www.zeni.ai/blog/y-combinator-success-rate"}
+],
+"seed_ownership":[
+{"stat":"median share sold to new investors in a seed round","value":0.20,"source":"https://carta.com/data/linkedin-founders-sell-20-percent-seed-series-a/"},
+{"stat":"median founding-team ownership after seed (rounds 2020-2024)","value":0.562,"source":"https://carta.com/data/founder-ownership-full-report/"},
+{"stat":"typical employee option pool after seed","value":0.12,"source":"https://carta.com/data/founder-ownership-2026/"}
+],
+"notes":"Fetch of PitchBook, Carta, TechCrunch, SEC, Lenny pages was blocked (WebFetch domain denied), so values come from search-result text, not the documents; entries flagged verified:false or 'snippet only' need checking against the PDFs. Gaps: no annual seed series for 2005-2009, 2011-2012, 2014-2018, 2020, 2023 (PitchBook implies ~7.0M for 2018 from +14.3% to 8.0M, not recorded as data). All valuations are PitchBook pre-money medians; Carta gives quarterly pre-money (e.g. 16M Q4 2024) and post-money. No direct figure for lead/seed investor ownership; only ~20% new-money share (excludes SAFE holders). No official YC shutdown/unicorn statement after 2015; YC's own 5.5% unicorn claim unverified. Source switches: PitchBook (<=2022) to Carta (2023+) not yet reconciled."
+}

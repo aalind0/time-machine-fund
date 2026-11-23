@@ -1,0 +1,339 @@
+{"id": "lovage", "pay": "Beauty salons", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-magic-dev", "pay": "Software teams", "model": "Subscription", "cash": "Heavy", "why": "training compute", "plain": ""}
+{"id": "marathon-education", "pay": "Parents", "model": "Service fees", "cash": "Medium", "why": "live tutors", "plain": ""}
+{"id": "f-matx", "pay": "AI companies", "model": "Hardware sales", "cash": "Heavy", "why": "chip fabrication", "plain": "Builds hardware accelerators for large language models, by ex-Google staff."}
+{"id": "midplane", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Software that sits between AI agents and a company database to keep it safe."}
+{"id": "ngrow-ai", "pay": "Marketers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "nophin", "pay": "Real estate investors", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "AI that screens deals for people buying commercial real estate."}
+{"id": "notebook-labs", "pay": "Web3 companies", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": "Software for proving who you are online while staying anonymous, built on blockchain."}
+{"id": "numida", "pay": "Shopkeepers", "model": "Lending interest", "cash": "Medium", "why": "lending capital", "plain": ""}
+{"id": "ole", "pay": "Consumers", "model": "Product sales", "cash": "Medium", "why": "inventory to stock", "plain": ""}
+{"id": "onboard-io", "pay": "Software companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Software that manages and automates how companies onboard new customers."}
+{"id": "openscale", "pay": "AI developers", "model": "Usage fees", "cash": "Heavy", "why": "GPU servers", "plain": "Cloud service for running open AI models and code sandboxes for AI agents."}
+{"id": "payload", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Open tools developers use to build websites and manage their content."}
+{"id": "peakpath", "pay": "Employers", "model": "Hardware + subscription", "cash": "Medium", "why": "smartwatch hardware", "plain": "Coaching delivered through smartwatches to help teams perform well over time."}
+{"id": "permitflow", "pay": "Contractors", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-perplexity-ai", "pay": "Consumers", "model": "Subscription", "cash": "Medium", "why": "AI computing costs", "plain": "Search tool that answers questions directly using AI, plus a web browser."}
+{"id": "phase-biolabs", "pay": "Chemical makers", "model": "Product sales", "cash": "Heavy", "why": "fermentation plants", "plain": ""}
+{"id": "pina-earth", "pay": "Forest owners", "model": "Marketplace commission", "cash": "Light", "why": "software only", "plain": "Helps European forest owners earn money by selling carbon credits."}
+{"id": "ping", "pay": "Freelancers", "model": "Transaction fees", "cash": "Medium", "why": "regulated banking", "plain": ""}
+{"id": "powerdocs", "pay": "Small businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "prembly", "pay": "Businesses", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "quik", "pay": "Small businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Software that helps small businesses in Latin America run their operations."}
+{"id": "ravion", "pay": "Software teams", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": "Makes Amazon's cloud easier to use for both people and AI agents."}
+{"id": "rdash", "pay": "Advertisers", "model": "Marketplace commission", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "refinetrain-ai", "pay": "Software companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "AI agents that rewrite company documentation so AI models can read it well."}
+{"id": "rehook-ai", "pay": "Marketers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Software to run and track customer reward and incentive campaigns."}
+{"id": "f-reka-ai", "pay": "Businesses", "model": "Usage fees", "cash": "Heavy", "why": "training compute", "plain": ""}
+{"id": "relevium-medical", "pay": "Patients", "model": "Drug sales", "cash": "Heavy", "why": "clinical trials", "plain": "Develops an injectable gel treatment for osteoarthritis (joint pain)."}
+{"id": "remedial-health", "pay": "Pharmacies", "model": "Marketplace commission", "cash": "Medium", "why": "lending capital", "plain": ""}
+{"id": "remi", "pay": "Homeowners", "model": "Marketplace commission", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "rider", "pay": "Online sellers", "model": "Delivery fees", "cash": "Heavy", "why": "couriers and hubs", "plain": ""}
+{"id": "rownd", "pay": "Militaries", "model": "Hardware sales", "cash": "Heavy", "why": "drone manufacturing", "plain": "Builds fully autonomous drone systems for defense."}
+{"id": "sarus", "pay": "Companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Lets companies analyze personal data for AI work while keeping it private."}
+{"id": "seis", "pay": "Consumers", "model": "Transaction fees", "cash": "Medium", "why": "regulated banking", "plain": ""}
+{"id": "sendme-inc", "pay": "Households", "model": "Product sales", "cash": "Medium", "why": "inventory to stock", "plain": ""}
+{"id": "shinkei-systems", "pay": "Fishing companies", "model": "Hardware sales", "cash": "Medium", "why": "robot hardware", "plain": ""}
+{"id": "sigmamind-ai", "pay": "Call centers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "AI voice agents that answer customer calls for contact centers."}
+{"id": "spadeworks", "pay": "Trade businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "AI agents that handle phone calls to win more jobs for trade businesses."}
+{"id": "speechly", "pay": "App developers", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": "Software that understands spoken commands, running directly on the user's device."}
+{"id": "suggestr", "pay": "Online stores", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Gives Shopify store owners personalized product recommendations for shoppers."}
+{"id": "sunlight", "pay": "Businesses", "model": "Transaction fees", "cash": "Light", "why": "software only", "plain": "Software that helps AI agents make business card payments."}
+{"id": "f-suno", "pay": "Consumers", "model": "Subscription", "cash": "Medium", "why": "AI computing costs", "plain": ""}
+{"id": "syrona-health", "pay": "Employers", "model": "Service fees", "cash": "Medium", "why": "clinical staff", "plain": ""}
+{"id": "tank-payments", "pay": "Trucking companies", "model": "Transaction fees", "cash": "Medium", "why": "regulated payments", "plain": ""}
+{"id": "taro", "pay": "Tech companies", "model": "Service fees", "cash": "Light", "why": "recruiter time", "plain": ""}
+{"id": "f-together-ai", "pay": "AI developers", "model": "Usage fees", "cash": "Heavy", "why": "GPU data centers", "plain": ""}
+{"id": "torpedo-therapeutics", "pay": "Hospitals", "model": "Hardware sales", "cash": "Heavy", "why": "medical approvals", "plain": ""}
+{"id": "touch-and-pay-technologies-limited", "pay": "Consumers", "model": "Transaction fees", "cash": "Medium", "why": "regulated payments", "plain": ""}
+{"id": "trellus", "pay": "Sales teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-true-anomaly", "pay": "Militaries", "model": "Contracts", "cash": "Heavy", "why": "spacecraft and launches", "plain": ""}
+{"id": "uberduck", "pay": "Creators", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "unlayer", "pay": "App makers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Tools that let software apps add AI content-creation features."}
+{"id": "uplink", "pay": "Accounting firms", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "vecindario", "pay": "Real estate firms", "model": "Service fees", "cash": "Light", "why": "software only", "plain": "Online service that helps sell properties and arrange mortgages."}
+{"id": "velontra", "pay": "Governments", "model": "Hardware sales", "cash": "Heavy", "why": "spaceplane development", "plain": ""}
+{"id": "f-verisoul", "pay": "Online platforms", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "vessel", "pay": "Software companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Integration tool that lets software connect to sales and marketing apps."}
+{"id": "voize", "pay": "Care providers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "wand-solar", "pay": "Landlords", "model": "Service fees", "cash": "Medium", "why": "solar installations", "plain": ""}
+{"id": "weltio", "pay": "Investors", "model": "Transaction fees", "cash": "Medium", "why": "regulated investing", "plain": "Investing app in Latin America that automatically buys stocks and crypto."}
+{"id": "whitelab-genomics", "pay": "Pharma companies", "model": "Contracts", "cash": "Medium", "why": "lab validation", "plain": "Uses AI to find new medicines based on genetic data."}
+{"id": "whiz", "pay": "Consumers", "model": "Transaction fees", "cash": "Medium", "why": "regulated payments", "plain": "Payments app that helps people manage and grow their money."}
+{"id": "workflow86", "pay": "Large companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "AI agents that run complex business processes that take a long time."}
+{"id": "wyvern", "pay": "Data buyers", "model": "Subscription", "cash": "Heavy", "why": "satellites and launches", "plain": ""}
+{"id": "zorba", "pay": "Real estate teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "AI assistant for real estate sales teams using its own data."}
+{"id": "222", "pay": "Consumers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "AI app that helps people meet and spend time together in person."}
+{"id": "accend", "pay": "Banks", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "agentcollect", "pay": "Businesses", "model": "Service fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "aisdr", "pay": "Sales teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "alaan", "pay": "Companies", "model": "Transaction fees", "cash": "Medium", "why": "regulated card issuing", "plain": ""}
+{"id": "alguna", "pay": "Software companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Billing and quoting software for companies with complex pricing models."}
+{"id": "aqueduct", "pay": "Designers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Software for making and sharing computer-generated 3D textures."}
+{"id": "artie", "pay": "Software teams", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "automat", "pay": "Businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Automation software that understands context and fixes its own errors."}
+{"id": "avoca", "pay": "Home service firms", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "baserun", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Tools for developers to monitor and test apps built on AI language models."}
+{"id": "benchmark", "pay": "Investment firms", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "bland-ai", "pay": "Large companies", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": "Lets large companies run automated AI phone calls at high volume."}
+{"id": "bretton-ai", "pay": "Banks", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "bujeti", "pay": "Businesses", "model": "Transaction fees", "cash": "Medium", "why": "regulated card issuing", "plain": ""}
+{"id": "cakework", "pay": "Software teams", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": "Lets any developer platform add cloud hosting through a simple API."}
+{"id": "campfire-2", "pay": "Companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Accounting and finance software for fast-growing companies, built on AI."}
+{"id": "capi-money", "pay": "Businesses", "model": "Transaction fees", "cash": "Medium", "why": "regulated payments", "plain": ""}
+{"id": "casca", "pay": "Banks", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "catamaran", "pay": "Insurers", "model": "Marketplace commission", "cash": "Medium", "why": "insurance licences", "plain": "Online insurance marketplace with data tools for investors and underwriters."}
+{"id": "cedalio", "pay": "Companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "AI agents that handle bill payments, purchasing and finance tasks."}
+{"id": "chequpi", "pay": "Travelers", "model": "Transaction fees", "cash": "Medium", "why": "regulated payments", "plain": ""}
+{"id": "clad", "pay": "Contractors", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "codeparrot-ai", "pay": "Developers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "AI tool that helps developers build user interfaces quickly."}
+{"id": "compliant-llm", "pay": "Companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Detects company data leaking into outside AI tools."}
+{"id": "contour", "pay": "Clinics", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "coperniq", "pay": "Energy contractors", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "craftos", "pay": "Wine businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "craftwork", "pay": "Homeowners", "model": "Service fees", "cash": "Medium", "why": "painting crews", "plain": ""}
+{"id": "deasy-labs", "pay": "Companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Labels documents with structured details so AI can use messy company data."}
+{"id": "decoda-health", "pay": "Med spas", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "defer", "pay": "Software teams", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": "Hosted service for running background tasks without managing servers."}
+{"id": "dioxus-labs", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "electric-air-2", "pay": "Homeowners", "model": "Service fees", "cash": "Medium", "why": "installation crews", "plain": ""}
+{"id": "elythea", "pay": "Hospitals", "model": "Subscription", "cash": "Medium", "why": "medical approvals", "plain": "Software that predicts and helps prevent pregnancy complications."}
+{"id": "every", "pay": "Small businesses", "model": "Subscription", "cash": "Medium", "why": "regulated banking", "plain": "One service for business banking, payroll, bookkeeping and tax."}
+{"id": "feanix-biotechnologies", "pay": "Farmers", "model": "Service fees", "cash": "Medium", "why": "DNA lab testing", "plain": "Uses DNA and software to make farm genetics easier to manage."}
+{"id": "fern", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-figgs-ai", "pay": "Consumers", "model": "Subscription", "cash": "Medium", "why": "AI computing costs", "plain": ""}
+{"id": "finic", "pay": "Financial firms", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Advanced AI that stops fraud, abuse and financial crime."}
+{"id": "finni-health", "pay": "Autism therapists", "model": "Service fees", "cash": "Medium", "why": "clinical operations", "plain": ""}
+{"id": "fours", "pay": "Brands", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Software for companies that sell through partners and resellers."}
+{"id": "giga", "pay": "Large companies", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "glide-2", "pay": "Businesses", "model": "Transaction fees", "cash": "Light", "why": "software only", "plain": "Lets businesses accept crypto payments and fund crypto wallets."}
+{"id": "gluetrail", "pay": "Companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "greentally", "pay": "Businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "hadrius", "pay": "Investment advisers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "happyrobot", "pay": "Freight brokers", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "healthtech-1", "pay": "Insurers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Guides patients to the right place for care the first time."}
+{"id": "hegel-ai", "pay": "AI developers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Free tools for building apps that use generative AI."}
+{"id": "highlight-io", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "hockeystack", "pay": "Software companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "homeflow", "pay": "Real estate investors", "model": "Service fees", "cash": "Medium", "why": "regulated insurance", "plain": ""}
+{"id": "hona", "pay": "Law firms", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "hylight", "pay": "Pipeline operators", "model": "Contracts", "cash": "Heavy", "why": "airships and crews", "plain": ""}
+{"id": "hyperbound", "pay": "Sales teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "infinia", "pay": "Software teams", "model": "Transaction fees", "cash": "Medium", "why": "regulated payments", "plain": ""}
+{"id": "infisical", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "kips-health", "pay": "Health companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Patient engagement software that rewards its users."}
+{"id": "kivo-health", "pay": "Patients", "model": "Service fees", "cash": "Medium", "why": "clinical care", "plain": ""}
+{"id": "langdock", "pay": "Companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "langfuse", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "latent", "pay": "Pharma companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Uses AI to help patients get needed medicines approved faster."}
+{"id": "letter-ai", "pay": "Sales teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "linc", "pay": "Large companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Software that maps how a company's work flows to find what to improve."}
+{"id": "line-build", "pay": "Businesses", "model": "Lending interest", "cash": "Medium", "why": "lending capital", "plain": ""}
+{"id": "lio", "pay": "Procurement teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-liquid-ai", "pay": "Device makers", "model": "Licensing", "cash": "Heavy", "why": "training compute", "plain": "Builds a new kind of AI model designed to run on phones and devices."}
+{"id": "littio", "pay": "Consumers", "model": "Transaction fees", "cash": "Medium", "why": "regulated banking", "plain": ""}
+{"id": "f-lovable", "pay": "Creators", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Tool that turns a typed prompt into a working app for non-developers."}
+{"id": "lynx", "pay": "Engineering teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "medisearch", "pay": "Consumers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "mercoa", "pay": "Payment platforms", "model": "Transaction fees", "cash": "Light", "why": "software only", "plain": "AI that helps bill-pay platforms pay invoices with virtual cards."}
+{"id": "middleware", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "miracle", "pay": "Pharma companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Software that gives drug companies live insights to speed up clinical trials."}
+{"id": "f-mistral-ai", "pay": "Businesses", "model": "Usage fees", "cash": "Heavy", "why": "training compute", "plain": ""}
+{"id": "mocha", "pay": "Creators", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "modulari-t", "pay": "Patients", "model": "Drug sales", "cash": "Heavy", "why": "clinical trials", "plain": ""}
+{"id": "moonrepo", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-moonshot-ai", "pay": "Consumers", "model": "Subscription", "cash": "Heavy", "why": "training compute", "plain": ""}
+{"id": "movley", "pay": "Online brands", "model": "Service fees", "cash": "Medium", "why": "inspection operations", "plain": "Quality control checks on products for e-commerce brands."}
+{"id": "f-noma-security", "pay": "Large companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "numeral", "pay": "Online stores", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "ohmic-biosciences", "pay": "Farmers", "model": "Licensing", "cash": "Heavy", "why": "field trials", "plain": ""}
+{"id": "olio-labs", "pay": "Pharma companies", "model": "Drug sales", "cash": "Heavy", "why": "clinical trials", "plain": ""}
+{"id": "onward", "pay": "Companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Smart software that runs meeting tasks automatically for busy teams."}
+{"id": "openmeter", "pay": "Software companies", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "opensight", "pay": "Companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "outset", "pay": "Brands", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "overflux", "pay": "Real estate developers", "model": "Service fees", "cash": "Medium", "why": "charger installations", "plain": ""}
+{"id": "palomma", "pay": "Tenants", "model": "Transaction fees", "cash": "Medium", "why": "regulated finance", "plain": ""}
+{"id": "pando-bioscience", "pay": "Pharma companies", "model": "Licensing", "cash": "Medium", "why": "lab testing", "plain": "Uses AI to design enzymes that help drug companies make new medicines."}
+{"id": "paperplane", "pay": "Builders merchants", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "peeba", "pay": "Retailers", "model": "Marketplace commission", "cash": "Medium", "why": "inventory to stock", "plain": ""}
+{"id": "persist-ai", "pay": "Pharma companies", "model": "Contracts", "cash": "Medium", "why": "lab work", "plain": ""}
+{"id": "pier", "pay": "Lenders", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Software that handles credit compliance rules for companies that lend."}
+{"id": "f-pika-labs", "pay": "Consumers", "model": "Subscription", "cash": "Medium", "why": "AI computing costs", "plain": ""}
+{"id": "pincites", "pay": "Law firms", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "pirros", "pay": "Architects", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "playai", "pay": "Software teams", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "pointhound", "pay": "Travelers", "model": "Service fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "prosper", "pay": "Healthcare providers", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "pylon-2", "pay": "Software companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "radical", "pay": "Governments", "model": "Contracts", "cash": "Heavy", "why": "aircraft and satellites", "plain": "Builds long-lasting aircraft that serve as infrastructure in the sky."}
+{"id": "rally-tax", "pay": "Consumers", "model": "Service fees", "cash": "Light", "why": "software only", "plain": "Tax software powered by AI that helps Americans save on taxes."}
+{"id": "readily", "pay": "Hospitals", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "remy", "pay": "Clinics", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Software that makes it simpler for clinics to work with insurers."}
+{"id": "resend", "pay": "Software teams", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "rimward", "pay": "Solar farm owners", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "roame", "pay": "Travelers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "rollstack-2", "pay": "Companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "ruuf", "pay": "Homeowners", "model": "Marketplace commission", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-sakana-ai", "pay": "Businesses", "model": "Contracts", "cash": "Heavy", "why": "training compute", "plain": ""}
+{"id": "salient", "pay": "Auto lenders", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-sarvam-ai", "pay": "Businesses", "model": "Usage fees", "cash": "Heavy", "why": "training compute", "plain": ""}
+{"id": "sendblue", "pay": "Businesses", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-skild-ai", "pay": "Robot makers", "model": "Licensing", "cash": "Heavy", "why": "training compute", "plain": ""}
+{"id": "smobi", "pay": "Marketers", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "sohar-health", "pay": "Clinics", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "solve-intelligence", "pay": "Law firms", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "speccheck", "pay": "Optical companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Shared software for optical industry companies to do business together."}
+{"id": "spine-ai", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Tool for managing many AI agents working together on tasks."}
+{"id": "stackai", "pay": "Large companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "subsets", "pay": "Media companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Automates keeping subscribers for subscription media companies."}
+{"id": "tennr", "pay": "Clinics", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "tiptap", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "traceloop", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "trainy", "pay": "AI teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "trayd", "pay": "Contractors", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "trigger-dev", "pay": "Software teams", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "truewind", "pay": "Startups", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "univerbal", "pay": "Learners", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "vango-ai", "pay": "AI teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Tools that make it much faster to improve AI models that analyze images."}
+{"id": "vaultpay", "pay": "Consumers", "model": "Transaction fees", "cash": "Medium", "why": "regulated banking", "plain": ""}
+{"id": "vectorshift", "pay": "Investment firms", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "venta-ai", "pay": "Sales teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "versori", "pay": "Businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "vetrec", "pay": "Veterinarians", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "vooma", "pay": "Freight brokers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "warp", "pay": "Startups", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "1849-bio", "pay": "Mining companies", "model": "Licensing", "cash": "Heavy", "why": "mine site trials", "plain": ""}
+{"id": "abel", "pay": "Law firms", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Speeds up document review for lawyers preparing for litigation."}
+{"id": "acx", "pay": "Farmers", "model": "Product sales", "cash": "Heavy", "why": "chemical production", "plain": "Develops biological pest-control products for farming."}
+{"id": "aedilic", "pay": "Online platforms", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "alex-com", "pay": "Employers", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "andon-labs", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Builds companies run entirely by AI, with no people in the loop."}
+{"id": "angstrom-ai", "pay": "Pharma companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "anthrogen", "pay": "Biotech companies", "model": "Licensing", "cash": "Medium", "why": "lab work", "plain": "Builds general-purpose tools for biotech research."}
+{"id": "archil", "pay": "Software teams", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": "Fast file storage that connects AI systems to data."}
+{"id": "arini", "pay": "Healthcare providers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "artisan", "pay": "Companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "artos", "pay": "Pharma companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Writes life-science documents in minutes instead of months."}
+{"id": "astro-mechanica", "pay": "Aircraft makers", "model": "Hardware sales", "cash": "Heavy", "why": "jet engine development", "plain": ""}
+{"id": "autarc", "pay": "Energy installers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "azalea-robotics-corporation", "pay": "Airports", "model": "Hardware + subscription", "cash": "Heavy", "why": "robot manufacturing", "plain": ""}
+{"id": "baseline-ai", "pay": "Pharma companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "bayesline", "pay": "Asset managers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "beglaubigtde", "pay": "Companies", "model": "Service fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-black-forest-labs", "pay": "Businesses", "model": "Licensing", "cash": "Heavy", "why": "training compute", "plain": ""}
+{"id": "breez-labs", "pay": "Companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Helps companies deploy AI email agents in sensitive, high-trust fields."}
+{"id": "brighterway", "pay": "Insurers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "camfer", "pay": "Engineers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "AI software that does mechanical engineering design work for engineers."}
+{"id": "centralize", "pay": "Large companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Software that maps business relationships to help enterprise sales teams."}
+{"id": "claimsorted", "pay": "Insurers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "cleva", "pay": "Consumers", "model": "Transaction fees", "cash": "Medium", "why": "regulated banking", "plain": ""}
+{"id": "cmux", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Open-source lab building AI tools for software developers."}
+{"id": "cocrafter", "pay": "Contractors", "model": "Marketplace commission", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "codes-health", "pay": "Clinics", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "commodityai", "pay": "Commodity firms", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "AI software to run day-to-day operations for commodity businesses."}
+{"id": "conductor", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "conductor-quantum", "pay": "Research labs", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "conveo", "pay": "Brands", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "corgi", "pay": "Startups", "model": "Insurance premiums", "cash": "Medium", "why": "regulated insurance", "plain": "Builds an AI-run financial company, starting with insurance for startups."}
+{"id": "crustdata", "pay": "Sales teams", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "ctgt", "pay": "Large companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Software that makes advanced AI models give predictable, reliable answers."}
+{"id": "curo", "pay": "Fleet operators", "model": "Rental fees", "cash": "Heavy", "why": "charging sites", "plain": ""}
+{"id": "deepnight", "pay": "Militaries", "model": "Hardware sales", "cash": "Heavy", "why": "device manufacturing", "plain": ""}
+{"id": "deepsilicon", "pay": "AI companies", "model": "Hardware sales", "cash": "Heavy", "why": "chip fabrication", "plain": "Builds software and chips that run neural networks faster and cheaper."}
+{"id": "distro", "pay": "Wholesale distributors", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "dodo", "pay": "Clinics", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "domu-technology-inc", "pay": "Businesses", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-dyna-robotics", "pay": "Businesses", "model": "Hardware + subscription", "cash": "Heavy", "why": "robot fleet", "plain": ""}
+{"id": "elodin", "pay": "Aerospace companies", "model": "Hardware + subscription", "cash": "Medium", "why": "flight hardware", "plain": "Flight software and matching hardware for running aerospace missions."}
+{"id": "emergent", "pay": "Consumers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "AI app builder that turns ideas into software that can earn money."}
+{"id": "entangl", "pay": "Data center operators", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "entropy", "pay": "Clinics", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "AI that handles patient intake and billing for specialty clinics."}
+{"id": "eris-biotech", "pay": "Patients", "model": "Drug sales", "cash": "Heavy", "why": "clinical trials", "plain": ""}
+{"id": "evolvere-biosciences", "pay": "Patients", "model": "Drug sales", "cash": "Heavy", "why": "clinical trials", "plain": ""}
+{"id": "finny-ai", "pay": "Financial advisors", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "fluently", "pay": "Learners", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "flyflow", "pay": "Sales teams", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "furtherai", "pay": "Insurers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "galini", "pay": "Companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Compliance guardrails sold as a service for AI applications."}
+{"id": "gander", "pay": "Private jet operators", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "garage-2", "pay": "Industrial buyers", "model": "Marketplace commission", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "general-learning", "pay": "Students", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-generalist-ai", "pay": "Robot makers", "model": "Licensing", "cash": "Heavy", "why": "training compute", "plain": ""}
+{"id": "getcho", "pay": "Stores", "model": "Delivery fees", "cash": "Heavy", "why": "drivers and couriers", "plain": ""}
+{"id": "granza-bio", "pay": "Patients", "model": "Drug sales", "cash": "Heavy", "why": "clinical trials", "plain": "Develops programmable medicines that work through the immune system."}
+{"id": "greenboard", "pay": "Businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "greptile", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "guardian-rf", "pay": "Militaries", "model": "Hardware sales", "cash": "Medium", "why": "sensor hardware", "plain": ""}
+{"id": "gumloop", "pay": "Companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "hey-revia", "pay": "Healthcare providers", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-inception-labs", "pay": "Businesses", "model": "Usage fees", "cash": "Heavy", "why": "training compute", "plain": ""}
+{"id": "infinity", "pay": "Small businesses", "model": "Transaction fees", "cash": "Medium", "why": "regulated banking", "plain": ""}
+{"id": "invaria", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "junction-bioscience", "pay": "Pharma companies", "model": "Contracts", "cash": "Medium", "why": "lab equipment", "plain": "Speeds up structural biology (3D protein imaging) from months to minutes."}
+{"id": "k-scale-labs", "pay": "Consumers", "model": "Hardware sales", "cash": "Medium", "why": "robot hardware", "plain": ""}
+{"id": "lantern-2", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Postgres add-on that stores vector data for building AI apps."}
+{"id": "legora", "pay": "Law firms", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "lilac-labs", "pay": "Restaurants", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "lumona", "pay": "Consumers", "model": "Ads", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "luthor", "pay": "Large companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Monitors company communications in real time to help meet the rules."}
+{"id": "melder", "pay": "Professionals", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "model-ml", "pay": "Banks", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "momentic", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "AI tester that finds bugs in an app before each release."}
+{"id": "moonshine", "pay": "Employers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Software that automates hiring and workforce decisions."}
+{"id": "nanocorp", "pay": "Consumers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Lets people run companies operated by AI around the clock."}
+{"id": "omnidock", "pay": "Brands", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Software to help brands and manufacturers sell online worldwide."}
+{"id": "onyx", "pay": "Companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "partnerhq", "pay": "Sales teams", "model": "Marketplace commission", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-physical-intelligence", "pay": "Robot makers", "model": "Licensing", "cash": "Heavy", "why": "training compute", "plain": ""}
+{"id": "pointone", "pay": "Law firms", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "preloop", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Turns experimental data science scripts into live machine-learning services."}
+{"id": "presti-ai", "pay": "Furniture companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "quary", "pay": "Data teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Analytics tool that runs in the web browser for data teams."}
+{"id": "redouble-ai", "pay": "Large companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "AI software for large Java-based companies, with agents that work together."}
+{"id": "reducto", "pay": "Software teams", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-reflection-ai", "pay": "Businesses", "model": "Usage fees", "cash": "Heavy", "why": "training compute", "plain": ""}
+{"id": "relari", "pay": "Manufacturers", "model": "Hardware sales", "cash": "Heavy", "why": "robot hardware", "plain": "Builds robots with skilled hands that learn from human movement."}
+{"id": "retell-ai", "pay": "Businesses", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "rove", "pay": "Travelers", "model": "Transaction fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "runlocal-ai", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "selera-medical", "pay": "Hospitals", "model": "Hardware sales", "cash": "Heavy", "why": "medical approvals", "plain": ""}
+{"id": "senso", "pay": "Brands", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "sepal-ai", "pay": "AI labs", "model": "Service fees", "cash": "Medium", "why": "expert annotators", "plain": ""}
+{"id": "silurian", "pay": "Businesses", "model": "Subscription", "cash": "Heavy", "why": "training compute", "plain": ""}
+{"id": "stacksync", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "starjar", "pay": "Hospitals", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "storia-ai", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "substrate", "pay": "Billing teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "AI software that helps medical billing teams do their work faster."}
+{"id": "surebright", "pay": "Retailers", "model": "Insurance premiums", "cash": "Medium", "why": "regulated insurance", "plain": ""}
+{"id": "taxgpt", "pay": "Accountants", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "tesseral", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "the-vibe-company", "pay": "Businesses", "model": "Service fees", "cash": "Light", "why": "software only", "plain": "Agency that scales like software, using its own AI agents."}
+{"id": "thorntale", "pay": "Professionals", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "trellis-ai", "pay": "Pharma companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "trieve", "pay": "Software teams", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "ultra", "pay": "Factories", "model": "Hardware sales", "cash": "Heavy", "why": "robot manufacturing", "plain": ""}
+{"id": "upsolve-ai", "pay": "Companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "AI data agents that understand a company's business."}
+{"id": "velorum-therapeutics", "pay": "Patients", "model": "Drug sales", "cash": "Heavy", "why": "clinical trials", "plain": "Develops new medicines that target the biology of heme in the body."}
+{"id": "vespper", "pay": "AI developers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Tool that lets AI agents open and edit Microsoft Word documents."}
+{"id": "vista-power", "pay": "Businesses", "model": "Service fees", "cash": "Heavy", "why": "batteries and panels", "plain": ""}
+{"id": "xpay", "pay": "Software companies", "model": "Transaction fees", "cash": "Medium", "why": "regulated payments", "plain": ""}
+{"id": "xtraffic", "pay": "Cities", "model": "Contracts", "cash": "Medium", "why": "traffic hardware", "plain": ""}
+{"id": "afterquery", "pay": "AI labs", "model": "Service fees", "cash": "Medium", "why": "expert contributors", "plain": ""}
+{"id": "athenahq", "pay": "Brands", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "bitpatrol", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "blaxel", "pay": "Software teams", "model": "Usage fees", "cash": "Medium", "why": "cloud servers", "plain": ""}
+{"id": "bud", "pay": "Consumers", "model": "Subscription", "cash": "Medium", "why": "AI computing costs", "plain": ""}
+{"id": "coasts", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Keeps local app services separate across git branches."}
+{"id": "dome", "pay": "Software teams", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "egress-health", "pay": "Dental practices", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "galen-ai", "pay": "Consumers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "kanava-ai", "pay": "Wholesale distributors", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "AI assistant that works as a sales hire for wholesale distributors."}
+{"id": "metis", "pay": "Software teams", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "opennote", "pay": "Students", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "propolis", "pay": "Software teams", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "rovr", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "AI engineer that runs a company's engineering workflows."}
+{"id": "zeroentropy", "pay": "Software teams", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "avea-robotics", "pay": "Businesses", "model": "Usage fees", "cash": "Medium", "why": "remote operators", "plain": ""}
+{"id": "mentlio", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Tracks and trims the cost of AI coding for engineering teams."}
+{"id": "oddpool", "pay": "Trading firms", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": "Data and tools for firms trading on prediction markets."}

@@ -1,0 +1,339 @@
+{"id": "f-aereo", "pay": "Consumers", "model": "Subscription", "cash": "Heavy", "why": "antenna hardware network", "plain": ""}
+{"id": "amplitude", "pay": "Consumers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "assorted-bits", "pay": "Consumers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-auto1", "pay": "Car dealers", "model": "Marketplace commission", "cash": "Medium", "why": "inventory to stock", "plain": ""}
+{"id": "benchling", "pay": "Biotech labs", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-blue-apron", "pay": "Consumers", "model": "Subscription", "cash": "Medium", "why": "inventory to stock", "plain": ""}
+{"id": "bufferbox", "pay": "Online stores", "model": "Service fees", "cash": "Medium", "why": "locker network", "plain": ""}
+{"id": "f-careem", "pay": "Riders", "model": "Marketplace commission", "cash": "Medium", "why": "drivers and couriers", "plain": ""}
+{"id": "classdojo", "pay": "Schools", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "clever", "pay": "Schools", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "coco-controller", "pay": "Gamers", "model": "Hardware sales", "cash": "Medium", "why": "hardware to build", "plain": ""}
+{"id": "coinbase", "pay": "Crypto buyers", "model": "Transaction fees", "cash": "Medium", "why": "regulated finance", "plain": ""}
+{"id": "documents-me", "pay": "Businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Encrypts files on your devices and in the cloud so only you can read them"}
+{"id": "f-exscientia", "pay": "Pharma companies", "model": "Contracts", "cash": "Heavy", "why": "drug development", "plain": ""}
+{"id": "f-fetchr", "pay": "Online stores", "model": "Delivery fees", "cash": "Heavy", "why": "couriers and vehicles", "plain": ""}
+{"id": "flutter", "pay": "Consumers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "glider", "pay": "Consumers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "gusto", "pay": "Small businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "hackpad", "pay": "Businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-handy", "pay": "Homeowners", "model": "Marketplace commission", "cash": "Light", "why": "marketplace software", "plain": ""}
+{"id": "healthsherpa", "pay": "Insurers", "model": "Marketplace commission", "cash": "Light", "why": "software only", "plain": "A private website where people compare and sign up for health plans"}
+{"id": "hipset", "pay": "Artists", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Gives artists a place to release new music and videos to fans"}
+{"id": "f-homejoy", "pay": "Homeowners", "model": "Marketplace commission", "cash": "Light", "why": "marketplace software", "plain": ""}
+{"id": "f-instacart", "pay": "Consumers", "model": "Delivery fees", "cash": "Medium", "why": "drivers and couriers", "plain": ""}
+{"id": "f-konga", "pay": "Consumers", "model": "Marketplace commission", "cash": "Medium", "why": "inventory and delivery", "plain": ""}
+{"id": "f-lambda", "pay": "AI developers", "model": "Usage fees", "cash": "Heavy", "why": "GPU data centers", "plain": ""}
+{"id": "lever", "pay": "Employers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "markupwand", "pay": "Designers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Turns design files into working websites automatically, with no manual coding"}
+{"id": "matterport", "pay": "Real estate firms", "model": "Hardware + subscription", "cash": "Medium", "why": "cameras to build", "plain": ""}
+{"id": "f-monday-com", "pay": "Businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Software where teams plan, track and share their work in visual boards"}
+{"id": "f-moovit", "pay": "Advertisers", "model": "Ads", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-olive-ai", "pay": "Hospitals", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Software bots that handle hospital billing and paperwork automatically"}
+{"id": "f-ouya", "pay": "Gamers", "model": "Hardware sales", "cash": "Medium", "why": "hardware to build", "plain": ""}
+{"id": "parallel-universe", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Helps software developers make their applications handle more users"}
+{"id": "per-vices", "pay": "Businesses", "model": "Hardware sales", "cash": "Medium", "why": "hardware to build", "plain": "Makes software-controlled radio equipment for demanding, high-stakes uses"}
+{"id": "pixate", "pay": "Designers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "plangrid", "pay": "Contractors", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "plivo", "pay": "Software teams", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-purplebricks", "pay": "Home sellers", "model": "Service fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "rainforest", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Lets software teams test their apps from start to finish without writing code"}
+{"id": "rescale", "pay": "Engineering teams", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "screenleap-inc", "pay": "Businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "sendwave", "pay": "Consumers", "model": "Transaction fees", "cash": "Medium", "why": "regulated payments", "plain": ""}
+{"id": "smartasset", "pay": "Advertisers", "model": "Ads", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "socialcam", "pay": "Advertisers", "model": "Ads", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "submittable", "pay": "Magazines", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "tilt", "pay": "Consumers", "model": "Transaction fees", "cash": "Medium", "why": "regulated payments", "plain": ""}
+{"id": "zapier", "pay": "Businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "airware", "pay": "Businesses", "model": "Hardware + subscription", "cash": "Medium", "why": "drones to build", "plain": ""}
+{"id": "amulyte", "pay": "Families", "model": "Hardware + subscription", "cash": "Medium", "why": "devices to build", "plain": ""}
+{"id": "f-astroscale", "pay": "Space agencies", "model": "Contracts", "cash": "Heavy", "why": "spacecraft and launches", "plain": ""}
+{"id": "f-babylon-health", "pay": "Patients", "model": "Subscription", "cash": "Medium", "why": "clinics and doctors", "plain": ""}
+{"id": "f-beepi", "pay": "Car buyers", "model": "Marketplace commission", "cash": "Medium", "why": "inspected inventory", "plain": ""}
+{"id": "f-bolt", "pay": "Riders", "model": "Marketplace commission", "cash": "Medium", "why": "drivers and couriers", "plain": ""}
+{"id": "casetext", "pay": "Law firms", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-copia", "pay": "Consumers", "model": "Marketplace commission", "cash": "Medium", "why": "agents and delivery", "plain": ""}
+{"id": "coreos", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-darktrace", "pay": "Businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-deliveroo", "pay": "Consumers", "model": "Delivery fees", "cash": "Medium", "why": "riders and couriers", "plain": ""}
+{"id": "f-doctolib", "pay": "Doctors", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "doordash", "pay": "Restaurants", "model": "Marketplace commission", "cash": "Medium", "why": "drivers and couriers", "plain": ""}
+{"id": "f-efishery", "pay": "Fish farmers", "model": "Product sales", "cash": "Medium", "why": "feed and financing", "plain": ""}
+{"id": "fivetran", "pay": "Data teams", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "gocomm", "pay": "Event teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "A mobile messaging app for crews working on live events"}
+{"id": "f-gopuff", "pay": "Consumers", "model": "Delivery fees", "cash": "Heavy", "why": "warehouses and couriers", "plain": ""}
+{"id": "heap", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "hum", "pay": "Businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "A chat app that works with email and shows who is currently online"}
+{"id": "f-infarm", "pay": "Grocery stores", "model": "Product sales", "cash": "Heavy", "why": "farm hardware", "plain": ""}
+{"id": "influxdata", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "ixiplay", "pay": "Parents", "model": "Hardware sales", "cash": "Medium", "why": "robots to build", "plain": ""}
+{"id": "f-juicero", "pay": "Consumers", "model": "Hardware + subscription", "cash": "Medium", "why": "hardware and packs", "plain": ""}
+{"id": "lob", "pay": "Businesses", "model": "Usage fees", "cash": "Medium", "why": "printing and mailing", "plain": ""}
+{"id": "localon", "pay": "Small businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Web marketing tools for small businesses and merchant groups"}
+{"id": "f-n26", "pay": "Consumers", "model": "Transaction fees", "cash": "Medium", "why": "regulated banking", "plain": ""}
+{"id": "north", "pay": "Consumers", "model": "Hardware sales", "cash": "Medium", "why": "wearables to build", "plain": ""}
+{"id": "panorama-education", "pay": "Schools", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-pear-therapeutics", "pay": "Patients", "model": "Subscription", "cash": "Medium", "why": "medical approvals", "plain": ""}
+{"id": "prophecy-sciences", "pay": "Employers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Uses brain science to predict how well people will perform at work"}
+{"id": "f-satispay", "pay": "Shops", "model": "Transaction fees", "cash": "Medium", "why": "regulated payments", "plain": ""}
+{"id": "screenhero", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-secret", "pay": "Advertisers", "model": "Ads", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-shyp", "pay": "Consumers", "model": "Delivery fees", "cash": "Medium", "why": "couriers and warehouse", "plain": ""}
+{"id": "simplyinsured", "pay": "Small businesses", "model": "Service fees", "cash": "Medium", "why": "regulated insurance", "plain": ""}
+{"id": "f-sprig", "pay": "Consumers", "model": "Product sales", "cash": "Heavy", "why": "kitchens and couriers", "plain": ""}
+{"id": "standard-treasury", "pay": "Banks", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "swish", "pay": "Consumers", "model": "Marketplace commission", "cash": "Light", "why": "marketplace software", "plain": ""}
+{"id": "f-take-eat-easy", "pay": "Consumers", "model": "Delivery fees", "cash": "Medium", "why": "couriers and kitchens", "plain": ""}
+{"id": "teleborder", "pay": "Employers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-wallapop", "pay": "Consumers", "model": "Marketplace commission", "cash": "Light", "why": "marketplace software", "plain": ""}
+{"id": "f-washio", "pay": "Consumers", "model": "Delivery fees", "cash": "Medium", "why": "drivers and cleaning", "plain": ""}
+{"id": "webflow", "pay": "Designers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-yik-yak", "pay": "Advertisers", "model": "Ads", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "zenefits", "pay": "Insurance brokers", "model": "Broker commissions", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-1x-technologies", "pay": "Consumers", "model": "Hardware sales", "cash": "Heavy", "why": "robots to build", "plain": ""}
+{"id": "airhelp", "pay": "Air passengers", "model": "Service fees", "cash": "Light", "why": "claims service", "plain": ""}
+{"id": "alchemy", "pay": "Carmakers", "model": "Product sales", "cash": "Heavy", "why": "coating production", "plain": "Makes nanotech coatings for carmakers and defence customers"}
+{"id": "algolia", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-andela", "pay": "Tech companies", "model": "Service fees", "cash": "Light", "why": "talent network", "plain": ""}
+{"id": "bellabeat", "pay": "Consumers", "model": "Hardware sales", "cash": "Medium", "why": "hardware to build", "plain": ""}
+{"id": "bikanta", "pay": "Hospitals", "model": "Product sales", "cash": "Heavy", "why": "medical approvals", "plain": ""}
+{"id": "f-bitpanda", "pay": "Consumers", "model": "Transaction fees", "cash": "Medium", "why": "regulated finance", "plain": ""}
+{"id": "cambly", "pay": "Students", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "checkr", "pay": "Employers", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "cleartax", "pay": "Consumers", "model": "Service fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "cognito", "pay": "Businesses", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "dyspatch", "pay": "Marketing teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Uses AI to build marketing emails that match the brand and display properly"}
+{"id": "f-esperanto-technologies", "pay": "Tech companies", "model": "Hardware sales", "cash": "Heavy", "why": "chip fabrication", "plain": ""}
+{"id": "flexport", "pay": "Shippers", "model": "Service fees", "cash": "Medium", "why": "freight operations", "plain": ""}
+{"id": "framed-data", "pay": "App makers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "front", "pay": "Businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "ginkgo-bioworks", "pay": "Biotech firms", "model": "Contracts", "cash": "Heavy", "why": "lab automation", "plain": ""}
+{"id": "f-gro-intelligence", "pay": "Agribusinesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "guesty", "pay": "Property hosts", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "helion-energy", "pay": "Utilities", "model": "Electricity sales", "cash": "Heavy", "why": "fusion reactors", "plain": ""}
+{"id": "hive", "pay": "Event promoters", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-hyperloop-one", "pay": "Governments", "model": "Contracts", "cash": "Heavy", "why": "tube infrastructure", "plain": ""}
+{"id": "f-instadeep", "pay": "Businesses", "model": "Contracts", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "kimono-labs", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-kite", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-locus-robotics", "pay": "Warehouses", "model": "Rental fees", "cash": "Heavy", "why": "fleet of robots", "plain": ""}
+{"id": "madesolid", "pay": "Manufacturers", "model": "Product sales", "cash": "Medium", "why": "materials production", "plain": "Makes 3D-printing materials strong enough for finished products, not just prototypes"}
+{"id": "mbx", "pay": "Consumers", "model": "Subscription", "cash": "Medium", "why": "inventory to stock", "plain": ""}
+{"id": "neptune-io", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Software that adds detail to server alerts and fixes problems automatically"}
+{"id": "f-nikola", "pay": "Trucking firms", "model": "Product sales", "cash": "Heavy", "why": "trucks and factories", "plain": ""}
+{"id": "f-ofo", "pay": "Consumers", "model": "Rental fees", "cash": "Heavy", "why": "fleet of bikes", "plain": ""}
+{"id": "f-opendoor", "pay": "Home sellers", "model": "Service fees", "cash": "Heavy", "why": "capital to buy homes", "plain": ""}
+{"id": "payable", "pay": "Businesses", "model": "Service fees", "cash": "Medium", "why": "regulated payments", "plain": "Handles payments and tax paperwork for businesses that hire contract workers"}
+{"id": "permutive", "pay": "Publishers", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": "Targets ads using audience data processed on the reader's own device"}
+{"id": "f-pollen", "pay": "Consumers", "model": "Service fees", "cash": "Medium", "why": "events and bookings", "plain": ""}
+{"id": "povio", "pay": "Startups", "model": "Service fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "product-hunt", "pay": "Advertisers", "model": "Ads", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "rickshaw", "pay": "Online stores", "model": "Delivery fees", "cash": "Medium", "why": "drivers and couriers", "plain": ""}
+{"id": "rigetti-computing", "pay": "Researchers", "model": "Usage fees", "cash": "Heavy", "why": "chip fabrication", "plain": ""}
+{"id": "f-righthand-robotics", "pay": "Warehouses", "model": "Hardware + subscription", "cash": "Medium", "why": "robots to build", "plain": ""}
+{"id": "f-sendy", "pay": "Businesses", "model": "Delivery fees", "cash": "Medium", "why": "drivers and couriers", "plain": ""}
+{"id": "shipbob", "pay": "Online stores", "model": "Service fees", "cash": "Heavy", "why": "warehouse network", "plain": ""}
+{"id": "f-skydio", "pay": "Consumers", "model": "Hardware sales", "cash": "Medium", "why": "drones to build", "plain": ""}
+{"id": "snapdocs", "pay": "Lenders", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-sonder", "pay": "Travellers", "model": "Rental fees", "cash": "Heavy", "why": "leased buildings", "plain": ""}
+{"id": "f-starship-technologies", "pay": "Retailers", "model": "Delivery fees", "cash": "Heavy", "why": "fleet of robots", "plain": ""}
+{"id": "taxa-biotechnologies", "pay": "Consumers", "model": "Product sales", "cash": "Medium", "why": "lab-made products", "plain": ""}
+{"id": "terravion", "pay": "Farmers", "model": "Subscription", "cash": "Medium", "why": "aircraft and imaging", "plain": ""}
+{"id": "f-twiga-foods", "pay": "Kiosk owners", "model": "Product sales", "cash": "Medium", "why": "inventory to stock", "plain": ""}
+{"id": "f-urban-company", "pay": "Consumers", "model": "Marketplace commission", "cash": "Light", "why": "marketplace software", "plain": ""}
+{"id": "vidpresso", "pay": "TV producers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "vizeralabs", "pay": "Retailers", "model": "Hardware sales", "cash": "Medium", "why": "projectors to build", "plain": "Projects images onto real objects, with no screens or glasses, for retail"}
+{"id": "f-wealthsimple", "pay": "Consumers", "model": "Service fees", "cash": "Medium", "why": "regulated finance", "plain": ""}
+{"id": "weave", "pay": "Small businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "wit-ai", "pay": "Software teams", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-wolt", "pay": "Consumers", "model": "Delivery fees", "cash": "Medium", "why": "drivers and couriers", "plain": ""}
+{"id": "f-zipline", "pay": "Governments", "model": "Contracts", "cash": "Heavy", "why": "drones and logistics", "plain": ""}
+{"id": "20n", "pay": "Chemical makers", "model": "Licensing", "cash": "Medium", "why": "lab work", "plain": "Uses AI to predict biochemistry for making chemicals and medicines"}
+{"id": "f-agility-robotics", "pay": "Warehouses", "model": "Hardware sales", "cash": "Heavy", "why": "robots to build", "plain": ""}
+{"id": "airmada", "pay": "Drone operators", "model": "Hardware sales", "cash": "Medium", "why": "ground stations to build", "plain": "Ground stations that let commercial drones fly without a crew on site"}
+{"id": "akido-labs", "pay": "Patients", "model": "Service fees", "cash": "Medium", "why": "clinics and doctors", "plain": "Uses technology to bring affordable medical care to underserved patients"}
+{"id": "f-arrival", "pay": "Fleet operators", "model": "Product sales", "cash": "Heavy", "why": "factories and vehicles", "plain": ""}
+{"id": "auro-robotics", "pay": "Campuses", "model": "Contracts", "cash": "Heavy", "why": "vehicles to build", "plain": ""}
+{"id": "bagaveev-corporation", "pay": "Satellite firms", "model": "Contracts", "cash": "Heavy", "why": "rockets and test flights", "plain": ""}
+{"id": "bankjoy", "pay": "Banks", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "bistrobot", "pay": "Consumers", "model": "Product sales", "cash": "Medium", "why": "robots and kiosks", "plain": ""}
+{"id": "f-bowery-farming", "pay": "Grocery stores", "model": "Product sales", "cash": "Heavy", "why": "farm buildings", "plain": ""}
+{"id": "f-bulb-energy", "pay": "Households", "model": "Usage fees", "cash": "Medium", "why": "energy purchasing", "plain": ""}
+{"id": "chaldal", "pay": "Consumers", "model": "Product sales", "cash": "Medium", "why": "inventory and delivery", "plain": ""}
+{"id": "chariot", "pay": "Commuters", "model": "Service fees", "cash": "Heavy", "why": "fleet of vans", "plain": ""}
+{"id": "circle-medical", "pay": "Patients", "model": "Service fees", "cash": "Medium", "why": "clinics and doctors", "plain": ""}
+{"id": "cleanly", "pay": "Consumers", "model": "Delivery fees", "cash": "Medium", "why": "drivers and cleaning", "plain": ""}
+{"id": "cofactor-genomics", "pay": "Hospitals", "model": "Service fees", "cash": "Medium", "why": "lab and approvals", "plain": "Predictive tests that help match patients with the right treatment"}
+{"id": "f-convoy", "pay": "Shippers", "model": "Marketplace commission", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "drip-capital", "pay": "Exporters", "model": "Lending interest", "cash": "Medium", "why": "lending capital", "plain": ""}
+{"id": "f-e-go-mobile", "pay": "Consumers", "model": "Product sales", "cash": "Heavy", "why": "factories and vehicles", "plain": ""}
+{"id": "eden", "pay": "Employers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Software that helps companies run their workplace and look after their staff"}
+{"id": "equipmentshare", "pay": "Contractors", "model": "Marketplace commission", "cash": "Light", "why": "marketplace software", "plain": ""}
+{"id": "f-exotec", "pay": "Warehouses", "model": "Hardware sales", "cash": "Heavy", "why": "robots to build", "plain": ""}
+{"id": "fountain", "pay": "Software companies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Phone and text service that guides new customers of software companies"}
+{"id": "foxpass", "pay": "Businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Brings big-company security practices to businesses of any size"}
+{"id": "gitlab", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-glovo", "pay": "Consumers", "model": "Delivery fees", "cash": "Medium", "why": "drivers and couriers", "plain": ""}
+{"id": "go1", "pay": "Businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "groupahead", "pay": "Groups", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Gives groups their own mobile app to keep members in touch"}
+{"id": "grubmarket", "pay": "Consumers", "model": "Product sales", "cash": "Medium", "why": "inventory and delivery", "plain": ""}
+{"id": "human-interest", "pay": "Small businesses", "model": "Subscription", "cash": "Medium", "why": "regulated finance", "plain": ""}
+{"id": "industrial-microbes", "pay": "Chemical makers", "model": "Licensing", "cash": "Heavy", "why": "pilot plants", "plain": ""}
+{"id": "instawork", "pay": "Restaurants", "model": "Marketplace commission", "cash": "Light", "why": "marketplace software", "plain": ""}
+{"id": "f-investree", "pay": "Small businesses", "model": "Transaction fees", "cash": "Medium", "why": "regulated finance", "plain": ""}
+{"id": "ironclad", "pay": "Legal teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "jopwell", "pay": "Employers", "model": "Service fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-katerra", "pay": "Developers", "model": "Contracts", "cash": "Heavy", "why": "factories and building", "plain": ""}
+{"id": "kickpay", "pay": "Online stores", "model": "Lending interest", "cash": "Medium", "why": "lending capital", "plain": "Finances inventory purchases for online stores so they can stock up"}
+{"id": "f-letgo", "pay": "Advertisers", "model": "Ads", "cash": "Light", "why": "marketplace software", "plain": ""}
+{"id": "f-lilium", "pay": "Airlines", "model": "Product sales", "cash": "Heavy", "why": "aircraft and approvals", "plain": ""}
+{"id": "lucira-health", "pay": "Consumers", "model": "Product sales", "cash": "Medium", "why": "medical approvals", "plain": ""}
+{"id": "magic", "pay": "Consumers", "model": "Subscription", "cash": "Medium", "why": "human assistants", "plain": ""}
+{"id": "mashgin", "pay": "Retailers", "model": "Hardware + subscription", "cash": "Medium", "why": "kiosks to build", "plain": ""}
+{"id": "f-mayfield-robotics", "pay": "Consumers", "model": "Hardware sales", "cash": "Medium", "why": "robots to build", "plain": ""}
+{"id": "meadow", "pay": "Dispensaries", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "mezmo", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-mobike", "pay": "Consumers", "model": "Rental fees", "cash": "Heavy", "why": "fleet of bikes", "plain": ""}
+{"id": "f-moniepoint", "pay": "Small businesses", "model": "Transaction fees", "cash": "Medium", "why": "regulated finance", "plain": ""}
+{"id": "notable-labs", "pay": "Hospitals", "model": "Service fees", "cash": "Medium", "why": "lab testing", "plain": ""}
+{"id": "f-nuri", "pay": "Consumers", "model": "Transaction fees", "cash": "Medium", "why": "regulated finance", "plain": ""}
+{"id": "f-octopus-energy", "pay": "Households", "model": "Usage fees", "cash": "Medium", "why": "energy purchasing", "plain": ""}
+{"id": "openinvest", "pay": "Consumers", "model": "Service fees", "cash": "Medium", "why": "regulated finance", "plain": ""}
+{"id": "f-orbex", "pay": "Satellite firms", "model": "Contracts", "cash": "Heavy", "why": "rockets and test flights", "plain": ""}
+{"id": "f-osaro", "pay": "Warehouses", "model": "Subscription", "cash": "Medium", "why": "robot integration", "plain": ""}
+{"id": "paperspace", "pay": "Developers", "model": "Usage fees", "cash": "Medium", "why": "computing servers", "plain": ""}
+{"id": "paribus", "pay": "Consumers", "model": "Service fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-personio", "pay": "Small businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-picnic", "pay": "Consumers", "model": "Product sales", "cash": "Heavy", "why": "vans and warehouses", "plain": ""}
+{"id": "plate-iq", "pay": "Restaurants", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "popular-pays", "pay": "Brands", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "qventus", "pay": "Hospitals", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "raven-tech", "pay": "Consumers", "model": "Hardware sales", "cash": "Medium", "why": "speakers to build", "plain": ""}
+{"id": "razorpay", "pay": "Businesses", "model": "Transaction fees", "cash": "Medium", "why": "regulated payments", "plain": ""}
+{"id": "reduced-energy-microsystems", "pay": "Device makers", "model": "Hardware sales", "cash": "Heavy", "why": "chip fabrication", "plain": ""}
+{"id": "remix", "pay": "Transit agencies", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-revolut", "pay": "Consumers", "model": "Transaction fees", "cash": "Medium", "why": "regulated finance", "plain": ""}
+{"id": "saida", "pay": "Consumers", "model": "Transaction fees", "cash": "Medium", "why": "regulated finance", "plain": ""}
+{"id": "scentbird", "pay": "Consumers", "model": "Subscription", "cash": "Medium", "why": "inventory to stock", "plain": ""}
+{"id": "shift-messenger", "pay": "Businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "smyte", "pay": "Online platforms", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "sourcedna", "pay": "App makers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "teamnote", "pay": "Businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "A team chat app built for workers who are mostly on their phones"}
+{"id": "teleport", "pay": "Software vendors", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "tempo", "pay": "Consumers", "model": "Hardware + subscription", "cash": "Medium", "why": "hardware to build", "plain": ""}
+{"id": "transcriptic", "pay": "Labs", "model": "Usage fees", "cash": "Medium", "why": "robotic lab equipment", "plain": ""}
+{"id": "f-travelperk", "pay": "Employers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "traversal-networks", "pay": "Businesses", "model": "Service fees", "cash": "Light", "why": "software and analysts", "plain": ""}
+{"id": "verge-genomics", "pay": "Pharma companies", "model": "Drug sales", "cash": "Heavy", "why": "clinical trials", "plain": ""}
+{"id": "f-wefox", "pay": "Consumers", "model": "Insurance premiums", "cash": "Medium", "why": "regulated insurance", "plain": ""}
+{"id": "xendit", "pay": "Businesses", "model": "Transaction fees", "cash": "Medium", "why": "regulated payments", "plain": ""}
+{"id": "zeitview", "pay": "Businesses", "model": "Marketplace commission", "cash": "Light", "why": "marketplace software", "plain": ""}
+{"id": "f-zume", "pay": "Consumers", "model": "Product sales", "cash": "Heavy", "why": "trucks and ovens", "plain": ""}
+{"id": "f-123milhas", "pay": "Consumers", "model": "Service fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-alan", "pay": "Employers", "model": "Insurance premiums", "cash": "Medium", "why": "regulated insurance", "plain": ""}
+{"id": "amberbox-gunshot-detection", "pay": "Facilities", "model": "Hardware + subscription", "cash": "Medium", "why": "sensors to build", "plain": "Detects gunshots and alerts police and other first responders"}
+{"id": "apollo-io", "pay": "Sales teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-apptronik", "pay": "Businesses", "model": "Hardware sales", "cash": "Heavy", "why": "robots to build", "plain": ""}
+{"id": "f-argo-ai", "pay": "Carmakers", "model": "Licensing", "cash": "Heavy", "why": "vehicles and testing", "plain": ""}
+{"id": "astranis", "pay": "Telecom carriers", "model": "Contracts", "cash": "Heavy", "why": "satellites and launches", "plain": ""}
+{"id": "athelas", "pay": "Patients", "model": "Hardware + subscription", "cash": "Medium", "why": "devices and approvals", "plain": ""}
+{"id": "f-axiom-space", "pay": "Space agencies", "model": "Service fees", "cash": "Heavy", "why": "spacecraft and launches", "plain": ""}
+{"id": "bird", "pay": "Riders", "model": "Rental fees", "cash": "Heavy", "why": "fleet of scooters", "plain": ""}
+{"id": "boom", "pay": "Airlines", "model": "Product sales", "cash": "Heavy", "why": "aircraft development", "plain": ""}
+{"id": "f-builder-ai", "pay": "Businesses", "model": "Service fees", "cash": "Light", "why": "software only", "plain": "Uses AI to assemble custom business apps for companies with little effort"}
+{"id": "bus-com", "pay": "Travellers", "model": "Marketplace commission", "cash": "Light", "why": "marketplace software", "plain": ""}
+{"id": "caper", "pay": "Grocery stores", "model": "Hardware + subscription", "cash": "Medium", "why": "carts to build", "plain": ""}
+{"id": "f-cerebras", "pay": "Tech companies", "model": "Hardware sales", "cash": "Heavy", "why": "chip fabrication", "plain": ""}
+{"id": "clip-health", "pay": "Patients", "model": "Service fees", "cash": "Medium", "why": "medical approvals", "plain": "Home testing and treatment for illnesses, with results in minutes"}
+{"id": "constructvr", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "cover", "pay": "Consumers", "model": "Insurance premiums", "cash": "Medium", "why": "regulated insurance", "plain": "Insurance sold through a mobile app that makes buying cover easy"}
+{"id": "f-factorial", "pay": "Small businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "farmstead", "pay": "Consumers", "model": "Product sales", "cash": "Medium", "why": "inventory and delivery", "plain": ""}
+{"id": "f-fisker", "pay": "Consumers", "model": "Product sales", "cash": "Heavy", "why": "vehicle development", "plain": ""}
+{"id": "flutterwave", "pay": "Businesses", "model": "Transaction fees", "cash": "Medium", "why": "regulated payments", "plain": ""}
+{"id": "focal-systems", "pay": "Grocery stores", "model": "Subscription", "cash": "Medium", "why": "cameras to install", "plain": ""}
+{"id": "f-frank", "pay": "Students", "model": "Service fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "function-of-beauty", "pay": "Consumers", "model": "Product sales", "cash": "Medium", "why": "inventory to stock", "plain": ""}
+{"id": "f-fyre-media", "pay": "Event organisers", "model": "Transaction fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "gecko-robotics", "pay": "Utilities", "model": "Service fees", "cash": "Medium", "why": "robots to build", "plain": ""}
+{"id": "georgette-packaging", "pay": "Online stores", "model": "Product sales", "cash": "Medium", "why": "inventory to stock", "plain": ""}
+{"id": "getaccept", "pay": "Sales teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "gitprime", "pay": "Engineering teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-gomechanic", "pay": "Drivers", "model": "Service fees", "cash": "Medium", "why": "workshop network", "plain": ""}
+{"id": "f-gostudent", "pay": "Parents", "model": "Marketplace commission", "cash": "Light", "why": "marketplace software", "plain": ""}
+{"id": "f-graphcore", "pay": "Tech companies", "model": "Hardware sales", "cash": "Heavy", "why": "chip fabrication", "plain": ""}
+{"id": "f-groq", "pay": "Tech companies", "model": "Hardware sales", "cash": "Heavy", "why": "chip fabrication", "plain": ""}
+{"id": "gtrack-technologies", "pay": "Energy companies", "model": "Service fees", "cash": "Medium", "why": "lab and field work", "plain": ""}
+{"id": "f-hellobike", "pay": "Consumers", "model": "Rental fees", "cash": "Heavy", "why": "fleet of bikes", "plain": ""}
+{"id": "hioperator", "pay": "Startups", "model": "Subscription", "cash": "Medium", "why": "support staff", "plain": ""}
+{"id": "innovein", "pay": "Hospitals", "model": "Product sales", "cash": "Heavy", "why": "clinical trials", "plain": ""}
+{"id": "iris-automation", "pay": "Drone operators", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "AI software that helps drones fly safely on their own"}
+{"id": "kisan-network", "pay": "Retailers", "model": "Product sales", "cash": "Heavy", "why": "warehouses and trucks", "plain": "Runs a supply chain that moves farm produce across India"}
+{"id": "lattice", "pay": "Employers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-lightyear", "pay": "Consumers", "model": "Product sales", "cash": "Heavy", "why": "factories and vehicles", "plain": ""}
+{"id": "luciq", "pay": "App makers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-luko", "pay": "Consumers", "model": "Insurance premiums", "cash": "Medium", "why": "regulated insurance", "plain": ""}
+{"id": "luminist-labs", "pay": "Hospitals", "model": "Service fees", "cash": "Medium", "why": "medical approvals", "plain": "Diagnostic tests that help catch liver disease at an early stage"}
+{"id": "f-merqueo", "pay": "Consumers", "model": "Product sales", "cash": "Heavy", "why": "warehouses and couriers", "plain": ""}
+{"id": "miso", "pay": "Consumers", "model": "Marketplace commission", "cash": "Light", "why": "marketplace software", "plain": ""}
+{"id": "multiply-labs", "pay": "Pharma companies", "model": "Service fees", "cash": "Heavy", "why": "robotic labs", "plain": ""}
+{"id": "netbeez", "pay": "IT teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Monitors company networks from what employees actually experience"}
+{"id": "f-northvolt", "pay": "Carmakers", "model": "Product sales", "cash": "Heavy", "why": "battery gigafactories", "plain": ""}
+{"id": "nurx", "pay": "Patients", "model": "Service fees", "cash": "Medium", "why": "doctors and pharmacy", "plain": ""}
+{"id": "open-motors", "pay": "Carmakers", "model": "Licensing", "cash": "Heavy", "why": "vehicle platforms", "plain": ""}
+{"id": "opentrons", "pay": "Labs", "model": "Hardware sales", "cash": "Medium", "why": "robots to build", "plain": ""}
+{"id": "patientbank", "pay": "Patients", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "paystack", "pay": "Businesses", "model": "Transaction fees", "cash": "Medium", "why": "regulated payments", "plain": ""}
+{"id": "people-ai", "pay": "Sales teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-plus-one-robotics", "pay": "Warehouses", "model": "Subscription", "cash": "Medium", "why": "robots and operators", "plain": ""}
+{"id": "podium", "pay": "Local businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "proxy", "pay": "Employers", "model": "Hardware + subscription", "cash": "Medium", "why": "readers to install", "plain": ""}
+{"id": "f-railsr", "pay": "Brands", "model": "Usage fees", "cash": "Medium", "why": "regulated finance", "plain": ""}
+{"id": "rappi", "pay": "Consumers", "model": "Delivery fees", "cash": "Medium", "why": "drivers and couriers", "plain": ""}
+{"id": "real-artists", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "reebeez", "pay": "Drone makers", "model": "Hardware sales", "cash": "Heavy", "why": "engine development", "plain": ""}
+{"id": "robby-technologies", "pay": "Restaurants", "model": "Delivery fees", "cash": "Heavy", "why": "fleet of robots", "plain": ""}
+{"id": "rose-rocket", "pay": "Trucking firms", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "salt-security", "pay": "Businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "scale-ai", "pay": "AI labs", "model": "Service fees", "cash": "Medium", "why": "human labelers", "plain": ""}
+{"id": "seerslab", "pay": "App makers", "model": "Licensing", "cash": "Light", "why": "software only", "plain": "Provides augmented reality technology and content to app developers"}
+{"id": "sendbird", "pay": "Software teams", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "shield-bio", "pay": "Hospitals", "model": "Hardware sales", "cash": "Heavy", "why": "medical approvals", "plain": ""}
+{"id": "skylights", "pay": "Venues", "model": "Service fees", "cash": "Medium", "why": "VR headsets", "plain": "Virtual reality movies and entertainment for audiences stuck in one place"}
+{"id": "f-sono-motors", "pay": "Consumers", "model": "Product sales", "cash": "Heavy", "why": "factories and vehicles", "plain": ""}
+{"id": "squire-technologies", "pay": "Barbershops", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "starsky-robotics", "pay": "Trucking firms", "model": "Service fees", "cash": "Heavy", "why": "trucks and sensors", "plain": ""}
+{"id": "superside", "pay": "Businesses", "model": "Subscription", "cash": "Medium", "why": "design staff", "plain": ""}
+{"id": "f-tanihub", "pay": "Businesses", "model": "Product sales", "cash": "Medium", "why": "inventory to stock", "plain": ""}
+{"id": "the-athletic", "pay": "Consumers", "model": "Subscription", "cash": "Light", "why": "digital only", "plain": ""}
+{"id": "tovala", "pay": "Consumers", "model": "Hardware + subscription", "cash": "Medium", "why": "ovens and meals", "plain": ""}
+{"id": "trac", "pay": "Event organisers", "model": "Service fees", "cash": "Medium", "why": "timing hardware", "plain": "Race timing for athletic events of any size, from start to finish"}
+{"id": "truebill", "pay": "Consumers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "unima", "pay": "Governments", "model": "Product sales", "cash": "Medium", "why": "test development", "plain": "Fast, low-cost tests that track disease outbreaks in real time"}
+{"id": "utilityscore", "pay": "Businesses", "model": "Usage fees", "cash": "Light", "why": "software only", "plain": "Gives developers estimates of utility bills for homes"}
+{"id": "vetcove", "pay": "Distributors", "model": "Marketplace commission", "cash": "Light", "why": "marketplace software", "plain": ""}
+{"id": "whyd", "pay": "Consumers", "model": "Hardware sales", "cash": "Medium", "why": "speakers to build", "plain": ""}
+{"id": "f-wukong-bike", "pay": "Consumers", "model": "Rental fees", "cash": "Heavy", "why": "fleet of bikes", "plain": ""}
+{"id": "yoshi-mobility", "pay": "Drivers", "model": "Subscription", "cash": "Medium", "why": "vehicles and services", "plain": "Helps people own and manage a car without the hassle"}
+{"id": "aella", "pay": "Businesses", "model": "Lending interest", "cash": "Medium", "why": "lending capital", "plain": "Credit and payments infrastructure for businesses across Africa"}
+{"id": "f-ai21-labs", "pay": "Businesses", "model": "Usage fees", "cash": "Medium", "why": "AI computing costs", "plain": ""}
+{"id": "airthium", "pay": "Utilities", "model": "Energy sales", "cash": "Heavy", "why": "energy plants", "plain": "Heat and power with lower emissions at lower cost than fossil fuels"}
+{"id": "ambient-ai", "pay": "Businesses", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "arylla", "pay": "Retailers", "model": "Product sales", "cash": "Medium", "why": "tag production", "plain": "Invisible, chip-free tags that connect products to the internet"}
+{"id": "f-aurora", "pay": "Trucking firms", "model": "Licensing", "cash": "Heavy", "why": "vehicles and testing", "plain": ""}
+{"id": "beek", "pay": "Consumers", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "billiontoone", "pay": "Hospitals", "model": "Service fees", "cash": "Medium", "why": "lab and approvals", "plain": ""}
+{"id": "bios-health", "pay": "Hospitals", "model": "Product sales", "cash": "Heavy", "why": "medical approvals", "plain": "Devices that read nerve signals so doctors can use them in treatment"}
+{"id": "bitrise", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "f-blockfi", "pay": "Consumers", "model": "Lending interest", "cash": "Medium", "why": "lending capital", "plain": ""}
+{"id": "breaker", "pay": "Advertisers", "model": "Ads", "cash": "Light", "why": "software only", "plain": ""}
+{"id": "brex", "pay": "Gamers", "model": "Hardware sales", "cash": "Medium", "why": "hardware to build", "plain": ""}
+{"id": "bulk-mro-industrial-supply", "pay": "Factories", "model": "Marketplace commission", "cash": "Medium", "why": "inventory and credit", "plain": ""}
+{"id": "bulletin", "pay": "Retailers", "model": "Marketplace commission", "cash": "Light", "why": "marketplace software", "plain": "Helps shops discover and buy brands to sell in their stores"}
+{"id": "f-canoo", "pay": "Businesses", "model": "Product sales", "cash": "Heavy", "why": "factories and vehicles", "plain": ""}
+{"id": "cashfree-payments", "pay": "Businesses", "model": "Transaction fees", "cash": "Medium", "why": "regulated payments", "plain": ""}
+{"id": "f-celsius-network", "pay": "Consumers", "model": "Lending interest", "cash": "Medium", "why": "lending capital", "plain": ""}
+{"id": "clipboard", "pay": "Nursing homes", "model": "Marketplace commission", "cash": "Light", "why": "marketplace software", "plain": ""}
+{"id": "covetly", "pay": "Collectors", "model": "Marketplace commission", "cash": "Light", "why": "marketplace software", "plain": ""}
+{"id": "d-id", "pay": "Software teams", "model": "Subscription", "cash": "Light", "why": "software only", "plain": "Lets creators and developers generate realistic AI-driven digital people"}
